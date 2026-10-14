@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).parent
-DATA_PATH = BASE_DIR / "bhutan_student_wellbeing.csv"
+DATA_PATH = BASE_DIR / "student_wellbeing_data.csv"
 MODEL_PATH = BASE_DIR / "student_wellbeing_model.pkl"
 
 # --------------------------------------------------
