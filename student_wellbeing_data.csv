@@ -1,0 +1,801 @@
+student_id,age,gender,district,residence,sleep_hours,study_hours_per_day,physical_activity_days,stress_level,social_support,financial_pressure,academic_pressure,screen_time_hours,mental_health_awareness,support_need
+SYN0001,18,Female,Thimphu,Rural,7.6,5.5,5,7,7,10,1,4.9,Medium,Support recommended
+SYN0002,24,Male,Wangdue Phodrang,Urban,7.6,3.2,7,10,5,3,4,5.5,Medium,Support recommended
+SYN0003,23,Male,Mongar,Rural,6.8,5.8,6,6,3,10,3,8.6,Low,Support recommended
+SYN0004,21,Female,Wangdue Phodrang,Rural,7.0,4.7,3,2,4,5,7,4.7,Medium,No immediate flag
+SYN0005,21,Other / Prefer not to say,Samtse,Urban,5.3,3.8,4,10,1,9,9,5.3,Low,Support recommended
+SYN0006,25,Male,Bumthang,Urban,4.1,3.4,2,5,4,7,3,3.5,Medium,No immediate flag
+SYN0007,18,Female,Samtse,Rural,7.0,10.3,5,7,6,1,8,6.6,Medium,No immediate flag
+SYN0008,24,Male,Mongar,Urban,7.2,4.5,1,4,2,6,6,7.9,Low,No immediate flag
+SYN0009,19,Female,Punakha,Rural,8.3,2.1,2,5,2,5,9,8.4,Low,No immediate flag
+SYN0010,18,Other / Prefer not to say,Thimphu,Rural,8.8,3.6,2,5,7,3,1,5.6,Medium,No immediate flag
+SYN0011,22,Male,Wangdue Phodrang,Urban,8.8,4.9,2,3,5,6,10,6.3,Medium,Support recommended
+SYN0012,26,Male,Thimphu,Rural,5.6,6.1,2,6,2,2,5,4.9,High,Support recommended
+SYN0013,24,Female,Sarpang,Rural,6.4,6.1,0,8,8,7,3,6.3,High,Support recommended
+SYN0014,24,Male,Trashigang,Urban,7.4,6.4,5,1,8,9,2,5.8,High,No immediate flag
+SYN0015,24,Female,Samtse,Rural,10.0,3.7,3,2,1,1,10,5.3,Medium,No immediate flag
+SYN0016,25,Female,Punakha,Urban,8.7,5.7,7,9,3,5,9,5.5,Medium,Support recommended
+SYN0017,22,Female,Trashigang,Urban,8.2,3.2,1,6,4,7,2,6.1,Medium,No immediate flag
+SYN0018,19,Male,Chukha,Rural,6.3,3.8,5,10,8,1,5,4.6,Medium,No immediate flag
+SYN0019,25,Female,Chukha,Rural,5.7,3.2,1,7,1,4,8,4.7,Medium,Support recommended
+SYN0020,22,Male,Punakha,Urban,7.8,2.6,4,7,9,3,6,8.6,Medium,Support recommended
+SYN0021,22,Male,Chukha,Urban,5.4,7.1,3,9,4,1,2,10.6,Low,No immediate flag
+SYN0022,21,Female,Mongar,Rural,6.5,6.4,3,7,2,9,4,2.8,Low,No immediate flag
+SYN0023,19,Female,Paro,Rural,6.7,7.0,5,4,9,5,4,2.7,Low,No immediate flag
+SYN0024,26,Female,Bumthang,Urban,8.8,5.1,6,6,1,8,3,3.3,Low,No immediate flag
+SYN0025,25,Male,Samtse,Rural,6.4,6.6,2,3,2,6,10,5.0,High,No immediate flag
+SYN0026,23,Male,Wangdue Phodrang,Rural,3.8,1.5,6,4,10,9,3,7.0,Low,Support recommended
+SYN0027,21,Female,Paro,Urban,7.4,6.7,1,7,6,10,8,6.4,Medium,No immediate flag
+SYN0028,25,Male,Samtse,Urban,5.9,5.4,2,2,5,7,10,5.5,High,Support recommended
+SYN0029,22,Female,Mongar,Urban,6.9,6.3,2,7,7,4,8,6.3,Medium,Support recommended
+SYN0030,21,Male,Chukha,Rural,6.7,5.8,7,6,7,5,8,3.8,Medium,Support recommended
+SYN0031,22,Male,Paro,Rural,6.5,3.0,0,4,7,9,2,4.7,Medium,No immediate flag
+SYN0032,20,Male,Wangdue Phodrang,Rural,7.8,2.0,3,1,1,5,2,5.2,Medium,No immediate flag
+SYN0033,18,Male,Paro,Rural,4.9,3.6,3,8,6,6,8,2.0,Medium,Support recommended
+SYN0034,22,Male,Samtse,Rural,6.2,6.1,6,9,3,2,8,2.9,High,Support recommended
+SYN0035,25,Female,Punakha,Rural,7.7,6.4,3,8,9,10,8,3.0,Medium,No immediate flag
+SYN0036,18,Female,Wangdue Phodrang,Rural,6.0,2.3,7,5,6,7,5,6.7,High,No immediate flag
+SYN0037,25,Female,Trashigang,Rural,4.8,3.0,5,7,2,4,6,5.7,High,Support recommended
+SYN0038,25,Male,Trashigang,Rural,7.6,3.6,5,5,9,6,1,6.4,Medium,No immediate flag
+SYN0039,20,Male,Bumthang,Urban,8.2,4.3,6,4,3,5,3,1.5,Medium,No immediate flag
+SYN0040,23,Male,Thimphu,Rural,6.7,2.3,1,4,3,2,6,2.2,Medium,No immediate flag
+SYN0041,19,Male,Samtse,Rural,4.3,2.2,3,3,10,9,2,6.5,Medium,Support recommended
+SYN0042,24,Female,Thimphu,Urban,7.7,3.4,4,10,8,9,2,0.5,Medium,No immediate flag
+SYN0043,24,Male,Thimphu,Rural,4.7,5.2,1,7,9,9,1,7.6,Medium,Support recommended
+SYN0044,21,Female,Chukha,Urban,7.2,2.6,0,2,7,4,3,1.6,High,No immediate flag
+SYN0045,18,Female,Wangdue Phodrang,Urban,5.7,4.8,1,9,10,3,10,6.9,Medium,Support recommended
+SYN0046,26,Male,Bumthang,Rural,5.4,7.1,6,2,2,1,7,3.4,Medium,No immediate flag
+SYN0047,22,Other / Prefer not to say,Mongar,Urban,6.2,2.4,5,6,6,8,10,7.3,Medium,Support recommended
+SYN0048,26,Male,Trashigang,Rural,6.6,4.6,2,2,3,4,3,11.6,Medium,No immediate flag
+SYN0049,24,Female,Mongar,Rural,6.0,7.0,5,4,4,9,6,0.7,High,Support recommended
+SYN0050,25,Male,Paro,Rural,7.5,4.2,5,7,3,9,9,6.6,High,Support recommended
+SYN0051,24,Female,Bumthang,Urban,6.2,3.9,6,10,3,2,4,1.6,Medium,Support recommended
+SYN0052,19,Male,Bumthang,Urban,8.0,7.3,7,10,5,10,7,6.1,Medium,Support recommended
+SYN0053,21,Male,Thimphu,Urban,7.2,4.4,7,9,10,2,7,4.8,Medium,Support recommended
+SYN0054,22,Female,Punakha,Urban,5.9,7.2,1,3,7,5,9,5.5,Low,No immediate flag
+SYN0055,22,Female,Bumthang,Rural,5.7,5.9,6,1,4,5,10,3.4,Medium,No immediate flag
+SYN0056,18,Female,Punakha,Rural,4.7,4.3,3,10,5,10,7,6.8,High,Support recommended
+SYN0057,22,Other / Prefer not to say,Bumthang,Urban,7.2,6.0,3,10,6,7,6,2.3,Medium,Support recommended
+SYN0058,19,Female,Sarpang,Rural,6.4,5.6,5,3,3,9,9,7.7,High,Support recommended
+SYN0059,24,Male,Punakha,Rural,3.8,7.0,4,1,6,6,7,4.4,Low,No immediate flag
+SYN0060,24,Male,Thimphu,Urban,6.1,3.9,3,7,7,9,4,2.4,Medium,No immediate flag
+SYN0061,26,Male,Samtse,Urban,5.7,5.1,7,1,3,9,7,8.4,Medium,Support recommended
+SYN0062,24,Female,Chukha,Rural,8.8,4.9,1,1,6,9,6,5.1,Medium,No immediate flag
+SYN0063,21,Male,Punakha,Rural,4.7,6.4,0,10,8,5,3,9.0,Medium,Support recommended
+SYN0064,26,Female,Wangdue Phodrang,Urban,5.0,2.9,0,5,6,4,6,7.6,Medium,Support recommended
+SYN0065,21,Male,Punakha,Rural,8.2,7.0,6,2,3,10,7,3.6,High,Support recommended
+SYN0066,20,Male,Paro,Rural,8.5,5.9,3,7,6,8,10,5.0,Medium,Support recommended
+SYN0067,26,Male,Samtse,Rural,5.9,2.4,3,4,8,10,6,5.4,Low,Support recommended
+SYN0068,21,Male,Trashigang,Urban,6.0,7.4,5,6,3,6,2,8.3,Medium,Support recommended
+SYN0069,18,Female,Thimphu,Urban,7.6,9.5,3,9,6,10,10,6.1,Medium,Support recommended
+SYN0070,22,Male,Chukha,Rural,3.9,7.0,4,3,7,8,6,5.6,Medium,Support recommended
+SYN0071,25,Female,Bumthang,Urban,4.5,7.9,0,7,4,8,3,4.8,Medium,Support recommended
+SYN0072,19,Female,Thimphu,Rural,6.4,5.2,1,9,4,2,8,5.1,Medium,Support recommended
+SYN0073,22,Female,Punakha,Rural,8.7,1.7,7,5,9,6,4,7.8,Medium,Support recommended
+SYN0074,19,Female,Chukha,Urban,6.3,1.3,3,10,4,8,4,5.2,High,Support recommended
+SYN0075,24,Female,Paro,Rural,6.9,5.5,1,5,6,8,9,4.4,Medium,Support recommended
+SYN0076,22,Female,Punakha,Rural,8.2,3.8,2,5,2,10,9,4.1,Medium,Support recommended
+SYN0077,20,Female,Wangdue Phodrang,Rural,9.4,3.2,2,9,10,4,6,4.1,Medium,No immediate flag
+SYN0078,20,Male,Paro,Rural,6.1,4.9,2,7,6,4,4,2.4,High,No immediate flag
+SYN0079,23,Male,Thimphu,Rural,6.8,6.2,2,9,8,10,9,3.7,Medium,Support recommended
+SYN0080,24,Female,Paro,Rural,9.1,2.1,5,8,7,10,2,8.2,High,No immediate flag
+SYN0081,26,Female,Trashigang,Rural,4.9,4.1,0,8,4,2,8,4.8,Low,No immediate flag
+SYN0082,21,Female,Bumthang,Rural,8.1,8.0,2,3,4,4,6,6.6,Medium,No immediate flag
+SYN0083,19,Male,Paro,Rural,5.5,2.8,3,4,8,10,9,0.5,Medium,Support recommended
+SYN0084,25,Female,Samtse,Urban,6.9,6.7,4,9,9,2,5,6.3,Medium,Support recommended
+SYN0085,23,Female,Samtse,Urban,6.5,4.0,7,7,2,8,9,4.9,Medium,Support recommended
+SYN0086,24,Female,Samtse,Urban,5.6,6.1,7,3,9,2,1,4.2,Medium,No immediate flag
+SYN0087,18,Female,Chukha,Rural,5.6,7.2,2,4,9,2,8,5.6,Medium,Support recommended
+SYN0088,20,Female,Thimphu,Rural,7.1,6.5,4,8,2,8,1,4.2,High,No immediate flag
+SYN0089,24,Male,Wangdue Phodrang,Rural,8.0,6.8,0,2,2,7,7,1.0,Medium,Support recommended
+SYN0090,25,Male,Samtse,Rural,6.6,2.7,4,2,7,6,2,7.0,Low,No immediate flag
+SYN0091,21,Male,Samtse,Rural,6.9,7.2,1,8,9,9,10,5.7,Medium,Support recommended
+SYN0092,25,Male,Chukha,Rural,7.5,3.3,0,3,4,4,8,4.6,Medium,No immediate flag
+SYN0093,25,Male,Sarpang,Urban,5.6,5.5,5,8,7,6,2,3.3,Low,No immediate flag
+SYN0094,21,Female,Trashigang,Rural,7.7,5.5,1,6,10,7,9,2.3,Medium,Support recommended
+SYN0095,26,Male,Punakha,Rural,7.8,6.0,3,10,4,8,3,5.6,Medium,Support recommended
+SYN0096,20,Male,Chukha,Rural,10.0,5.7,0,6,3,4,6,8.4,Low,Support recommended
+SYN0097,20,Female,Bumthang,Urban,6.3,3.3,5,9,10,7,1,5.6,Medium,Support recommended
+SYN0098,24,Male,Bumthang,Rural,6.2,2.3,6,9,3,5,2,2.4,Medium,Support recommended
+SYN0099,23,Female,Thimphu,Rural,7.8,6.7,4,3,5,6,3,5.7,High,No immediate flag
+SYN0100,19,Male,Sarpang,Rural,7.8,5.4,6,10,5,9,6,5.1,Medium,Support recommended
+SYN0101,25,Male,Trashigang,Rural,6.1,7.3,3,8,6,4,6,6.9,Low,Support recommended
+SYN0102,19,Male,Thimphu,Rural,6.3,4.9,1,2,3,7,9,6.4,High,Support recommended
+SYN0103,25,Male,Mongar,Urban,7.5,2.2,1,1,7,10,2,0.5,Medium,No immediate flag
+SYN0104,18,Male,Paro,Rural,5.8,6.9,1,3,7,8,8,6.3,Low,No immediate flag
+SYN0105,25,Male,Thimphu,Rural,6.3,4.3,1,1,3,10,1,3.2,High,Support recommended
+SYN0106,25,Male,Paro,Rural,6.9,5.7,2,4,5,6,3,2.4,Low,No immediate flag
+SYN0107,25,Female,Punakha,Urban,8.0,3.7,1,10,1,3,2,4.8,High,Support recommended
+SYN0108,23,Male,Trashigang,Rural,6.0,8.3,4,5,3,10,2,6.0,Medium,Support recommended
+SYN0109,22,Male,Punakha,Rural,4.5,3.2,1,1,10,7,6,1.9,High,No immediate flag
+SYN0110,24,Female,Paro,Urban,4.4,4.3,4,5,6,3,10,6.6,High,Support recommended
+SYN0111,20,Female,Paro,Rural,5.2,5.2,2,3,7,4,7,6.7,Medium,No immediate flag
+SYN0112,25,Male,Bumthang,Rural,5.2,2.8,5,9,9,3,9,5.3,High,Support recommended
+SYN0113,23,Female,Sarpang,Rural,6.6,5.7,4,1,8,9,6,3.5,Medium,No immediate flag
+SYN0114,22,Female,Mongar,Rural,5.3,8.2,7,8,8,1,1,3.2,Medium,No immediate flag
+SYN0115,22,Female,Paro,Urban,5.9,4.0,3,5,8,8,4,7.3,Medium,Support recommended
+SYN0116,23,Female,Bumthang,Rural,5.8,5.8,2,1,5,6,9,2.2,Low,Support recommended
+SYN0117,18,Female,Trashigang,Urban,6.2,0.0,4,7,7,1,1,7.3,Low,No immediate flag
+SYN0118,19,Male,Wangdue Phodrang,Rural,8.5,4.9,5,5,3,7,1,4.9,Low,Support recommended
+SYN0119,20,Female,Paro,Rural,7.6,4.4,3,8,9,8,9,5.0,Low,Support recommended
+SYN0120,19,Male,Sarpang,Rural,6.8,3.4,4,7,2,8,1,1.8,Medium,No immediate flag
+SYN0121,21,Male,Punakha,Urban,6.2,7.2,3,8,9,6,10,4.9,High,Support recommended
+SYN0122,24,Female,Thimphu,Urban,6.3,4.3,2,5,9,4,8,6.4,Medium,No immediate flag
+SYN0123,23,Female,Chukha,Rural,7.2,4.6,2,1,2,2,7,2.5,High,No immediate flag
+SYN0124,22,Male,Punakha,Rural,7.5,4.2,7,2,8,1,6,6.2,High,Support recommended
+SYN0125,25,Female,Thimphu,Rural,5.7,1.2,5,5,10,4,1,5.4,Medium,No immediate flag
+SYN0126,23,Female,Samtse,Urban,6.8,2.7,0,4,6,7,5,3.9,Medium,No immediate flag
+SYN0127,18,Male,Punakha,Urban,4.3,6.9,7,8,4,1,9,6.9,High,Support recommended
+SYN0128,24,Other / Prefer not to say,Sarpang,Rural,7.1,0.8,5,5,9,10,10,0.8,Medium,Support recommended
+SYN0129,23,Male,Thimphu,Urban,7.8,3.5,0,9,6,6,5,5.9,Medium,Support recommended
+SYN0130,23,Female,Wangdue Phodrang,Rural,6.4,4.2,5,2,2,3,9,8.4,High,No immediate flag
+SYN0131,23,Male,Sarpang,Rural,9.1,8.5,4,4,3,10,8,8.1,Medium,No immediate flag
+SYN0132,22,Male,Bumthang,Urban,5.7,6.5,7,8,7,2,1,6.0,Medium,Support recommended
+SYN0133,18,Female,Sarpang,Rural,7.1,3.9,3,2,5,10,7,4.6,High,Support recommended
+SYN0134,23,Male,Paro,Urban,6.8,7.6,4,4,3,3,7,3.9,Medium,No immediate flag
+SYN0135,25,Female,Bumthang,Rural,6.7,3.5,2,8,8,4,6,4.6,High,Support recommended
+SYN0136,20,Female,Sarpang,Rural,6.7,7.0,2,6,2,5,8,6.3,Low,Support recommended
+SYN0137,23,Male,Samtse,Rural,6.9,2.3,4,8,3,10,9,3.6,Low,Support recommended
+SYN0138,18,Female,Punakha,Urban,7.9,7.1,6,6,5,3,6,6.7,Medium,No immediate flag
+SYN0139,21,Female,Wangdue Phodrang,Rural,8.5,4.2,7,9,1,10,4,9.5,Low,Support recommended
+SYN0140,21,Male,Punakha,Rural,6.8,2.9,6,9,4,4,10,5.1,High,Support recommended
+SYN0141,26,Other / Prefer not to say,Chukha,Urban,7.8,4.6,4,10,10,3,10,2.5,Low,Support recommended
+SYN0142,19,Male,Sarpang,Urban,5.9,5.6,4,2,10,7,7,2.5,Medium,No immediate flag
+SYN0143,20,Male,Sarpang,Urban,7.8,4.0,2,6,9,7,7,6.8,Low,No immediate flag
+SYN0144,21,Other / Prefer not to say,Samtse,Rural,5.8,6.1,6,2,4,4,2,5.1,High,No immediate flag
+SYN0145,26,Female,Bumthang,Rural,8.2,3.8,2,3,1,2,5,7.0,Medium,No immediate flag
+SYN0146,25,Female,Samtse,Rural,9.6,6.2,2,4,9,4,2,4.1,Low,No immediate flag
+SYN0147,18,Female,Mongar,Rural,6.6,5.9,6,7,4,6,6,6.9,Low,No immediate flag
+SYN0148,20,Female,Wangdue Phodrang,Rural,4.1,4.9,4,5,8,1,9,4.9,Medium,No immediate flag
+SYN0149,25,Male,Punakha,Rural,6.1,4.1,2,9,2,1,3,3.7,High,No immediate flag
+SYN0150,18,Female,Paro,Rural,8.3,5.3,6,3,7,10,10,4.4,High,Support recommended
+SYN0151,25,Female,Trashigang,Rural,7.5,6.1,7,7,6,1,2,2.8,Medium,No immediate flag
+SYN0152,20,Female,Samtse,Urban,7.1,9.1,2,8,10,5,1,9.2,Medium,Support recommended
+SYN0153,26,Female,Chukha,Rural,8.1,6.9,4,10,2,8,10,5.0,Low,Support recommended
+SYN0154,20,Male,Paro,Rural,7.4,7.0,3,3,5,4,2,6.5,Medium,No immediate flag
+SYN0155,21,Female,Sarpang,Urban,8.3,11.2,5,8,10,5,8,4.1,Medium,Support recommended
+SYN0156,23,Female,Paro,Rural,7.9,6.0,7,1,4,1,8,3.1,Medium,No immediate flag
+SYN0157,19,Female,Mongar,Urban,8.7,6.0,4,6,7,8,4,4.7,Medium,Support recommended
+SYN0158,23,Male,Bumthang,Rural,7.2,6.4,6,5,2,7,1,7.4,High,No immediate flag
+SYN0159,22,Male,Thimphu,Rural,7.9,3.0,4,10,8,9,4,4.2,Low,No immediate flag
+SYN0160,25,Male,Wangdue Phodrang,Rural,6.4,4.1,7,8,3,9,1,3.5,Low,Support recommended
+SYN0161,26,Female,Wangdue Phodrang,Urban,6.0,4.0,3,10,6,4,7,5.5,Low,Support recommended
+SYN0162,23,Female,Samtse,Urban,8.9,6.3,3,9,9,1,9,6.2,Low,No immediate flag
+SYN0163,21,Male,Trashigang,Urban,7.1,4.7,3,5,7,4,10,8.5,Low,Support recommended
+SYN0164,21,Male,Punakha,Urban,7.8,5.3,7,8,5,2,9,5.9,Medium,Support recommended
+SYN0165,21,Male,Punakha,Urban,7.0,7.2,4,1,2,6,8,6.5,Low,No immediate flag
+SYN0166,25,Male,Punakha,Urban,6.1,6.7,1,6,4,2,9,6.6,Medium,No immediate flag
+SYN0167,20,Male,Bumthang,Rural,6.8,4.7,0,1,9,10,8,2.9,High,No immediate flag
+SYN0168,19,Female,Trashigang,Urban,8.6,3.7,4,8,3,7,7,3.3,High,Support recommended
+SYN0169,21,Female,Samtse,Urban,7.5,7.3,6,10,7,3,10,3.0,Medium,Support recommended
+SYN0170,18,Male,Sarpang,Rural,4.7,6.5,3,7,5,10,4,2.5,Low,Support recommended
+SYN0171,18,Female,Bumthang,Rural,6.5,1.8,4,9,4,8,5,6.8,Low,Support recommended
+SYN0172,18,Male,Sarpang,Rural,9.0,4.4,6,3,8,5,10,5.8,Low,No immediate flag
+SYN0173,24,Male,Mongar,Rural,6.5,5.3,4,10,4,2,4,5.4,High,Support recommended
+SYN0174,24,Male,Samtse,Rural,4.5,6.6,7,6,3,4,3,0.5,High,No immediate flag
+SYN0175,24,Male,Mongar,Rural,9.2,6.8,5,7,6,6,2,9.3,Medium,No immediate flag
+SYN0176,22,Male,Samtse,Rural,7.7,5.6,5,8,8,8,3,3.4,Medium,No immediate flag
+SYN0177,24,Male,Chukha,Rural,6.7,6.2,6,7,9,3,6,9.3,Medium,Support recommended
+SYN0178,19,Male,Punakha,Rural,6.3,5.1,5,4,7,8,9,2.3,Medium,No immediate flag
+SYN0179,26,Male,Sarpang,Urban,8.2,3.7,0,7,7,3,2,3.6,High,No immediate flag
+SYN0180,22,Female,Wangdue Phodrang,Rural,6.1,4.5,3,7,8,3,7,0.8,Low,No immediate flag
+SYN0181,26,Male,Samtse,Urban,8.2,5.0,1,9,3,5,8,5.9,Medium,Support recommended
+SYN0182,19,Male,Punakha,Rural,7.5,4.9,4,5,3,2,9,3.0,Medium,Support recommended
+SYN0183,22,Female,Chukha,Urban,7.1,1.2,1,6,5,5,8,3.1,Low,No immediate flag
+SYN0184,24,Female,Trashigang,Urban,7.0,4.2,4,6,7,4,2,2.5,Medium,Support recommended
+SYN0185,22,Male,Samtse,Urban,6.6,5.1,2,2,7,3,5,6.8,High,Support recommended
+SYN0186,22,Male,Wangdue Phodrang,Rural,8.1,4.4,0,1,2,8,10,6.6,Low,Support recommended
+SYN0187,19,Female,Samtse,Urban,5.7,4.5,0,1,8,4,10,8.8,Medium,Support recommended
+SYN0188,21,Female,Samtse,Rural,4.8,6.0,4,7,4,7,7,3.8,Medium,Support recommended
+SYN0189,20,Female,Sarpang,Rural,7.6,2.8,0,5,9,8,10,5.6,Low,No immediate flag
+SYN0190,20,Female,Samtse,Urban,7.6,1.7,6,9,8,7,7,2.6,Low,Support recommended
+SYN0191,24,Male,Thimphu,Rural,7.4,4.3,6,8,10,3,1,4.5,Medium,No immediate flag
+SYN0192,23,Female,Samtse,Urban,7.3,6.5,5,2,7,9,10,4.2,Low,No immediate flag
+SYN0193,23,Female,Wangdue Phodrang,Urban,6.4,8.4,1,2,6,3,2,6.1,Medium,No immediate flag
+SYN0194,21,Male,Thimphu,Rural,7.8,6.6,6,4,2,3,4,7.2,High,No immediate flag
+SYN0195,26,Female,Samtse,Rural,6.7,2.1,5,10,4,9,3,7.2,Medium,Support recommended
+SYN0196,18,Female,Paro,Urban,6.2,4.5,3,1,9,4,8,3.5,High,No immediate flag
+SYN0197,21,Male,Wangdue Phodrang,Rural,6.4,5.5,0,2,4,7,1,7.2,Medium,No immediate flag
+SYN0198,19,Male,Mongar,Urban,9.3,5.4,4,1,1,1,7,5.1,Medium,No immediate flag
+SYN0199,21,Other / Prefer not to say,Sarpang,Rural,4.6,6.1,6,5,3,7,9,4.6,Medium,No immediate flag
+SYN0200,26,Male,Samtse,Rural,7.4,3.2,0,10,6,9,8,3.8,Low,Support recommended
+SYN0201,21,Female,Bumthang,Rural,4.7,5.1,0,7,7,8,4,4.1,Medium,No immediate flag
+SYN0202,26,Male,Chukha,Rural,6.7,5.8,3,5,10,6,9,8.7,Medium,Support recommended
+SYN0203,22,Male,Mongar,Urban,6.3,6.7,4,2,10,9,4,5.8,High,No immediate flag
+SYN0204,24,Male,Wangdue Phodrang,Rural,4.2,3.4,3,4,6,3,7,5.5,Medium,Support recommended
+SYN0205,22,Other / Prefer not to say,Mongar,Rural,7.3,4.3,3,6,6,4,6,4.7,Low,No immediate flag
+SYN0206,20,Male,Mongar,Rural,6.3,0.0,2,3,9,1,1,10.1,High,No immediate flag
+SYN0207,24,Male,Wangdue Phodrang,Urban,4.2,3.8,0,8,1,7,1,7.8,Low,Support recommended
+SYN0208,26,Female,Chukha,Rural,7.8,4.0,0,10,6,8,2,3.8,High,No immediate flag
+SYN0209,20,Male,Wangdue Phodrang,Rural,8.6,3.0,0,3,5,8,10,4.7,High,Support recommended
+SYN0210,25,Female,Bumthang,Urban,8.7,5.3,5,3,8,8,10,4.8,High,Support recommended
+SYN0211,20,Male,Sarpang,Urban,7.2,4.9,6,2,9,2,5,5.5,High,No immediate flag
+SYN0212,24,Male,Sarpang,Rural,6.9,0.5,3,8,7,7,10,3.8,Low,Support recommended
+SYN0213,25,Other / Prefer not to say,Paro,Rural,8.5,5.4,0,5,7,8,1,6.1,Medium,Support recommended
+SYN0214,22,Other / Prefer not to say,Wangdue Phodrang,Urban,8.9,3.1,3,3,7,3,10,8.1,High,No immediate flag
+SYN0215,24,Female,Paro,Rural,8.2,6.0,7,3,6,5,3,2.6,Medium,No immediate flag
+SYN0216,20,Male,Trashigang,Rural,5.6,2.4,1,1,3,10,1,2.9,Medium,No immediate flag
+SYN0217,18,Male,Sarpang,Rural,7.1,5.1,3,5,3,5,8,4.2,Low,Support recommended
+SYN0218,18,Female,Thimphu,Rural,7.3,4.4,4,7,8,8,4,4.3,Medium,No immediate flag
+SYN0219,22,Female,Trashigang,Rural,4.5,5.6,2,3,7,6,3,9.2,Medium,No immediate flag
+SYN0220,26,Female,Sarpang,Rural,7.4,5.2,3,1,3,7,8,7.2,Medium,Support recommended
+SYN0221,19,Male,Bumthang,Rural,9.6,4.5,3,5,9,7,4,7.1,High,No immediate flag
+SYN0222,22,Male,Samtse,Rural,7.6,1.9,3,7,10,7,8,4.7,High,Support recommended
+SYN0223,24,Other / Prefer not to say,Paro,Rural,8.6,2.0,5,4,7,8,2,4.6,Medium,No immediate flag
+SYN0224,19,Female,Sarpang,Rural,7.0,3.8,4,3,3,10,1,2.3,Medium,No immediate flag
+SYN0225,24,Other / Prefer not to say,Sarpang,Rural,6.7,5.0,0,2,10,3,4,6.8,Medium,No immediate flag
+SYN0226,20,Female,Wangdue Phodrang,Urban,7.3,3.8,0,8,3,10,7,6.2,Medium,Support recommended
+SYN0227,25,Male,Sarpang,Rural,5.8,6.3,3,9,5,7,3,7.8,Low,Support recommended
+SYN0228,23,Female,Thimphu,Rural,5.6,4.4,7,8,9,6,2,4.8,Low,Support recommended
+SYN0229,22,Male,Trashigang,Rural,8.4,3.1,0,6,6,4,8,4.9,Medium,No immediate flag
+SYN0230,19,Male,Thimphu,Rural,8.5,4.4,0,8,3,5,5,5.5,Medium,No immediate flag
+SYN0231,22,Male,Sarpang,Rural,5.6,5.5,5,4,1,7,5,7.0,Medium,No immediate flag
+SYN0232,25,Male,Trashigang,Rural,8.0,5.6,3,1,4,4,3,2.3,Low,Support recommended
+SYN0233,18,Female,Sarpang,Rural,6.7,8.8,1,4,7,3,1,6.7,Medium,Support recommended
+SYN0234,24,Female,Wangdue Phodrang,Urban,7.2,3.7,1,8,8,9,1,5.2,Low,No immediate flag
+SYN0235,22,Female,Thimphu,Urban,7.4,4.9,5,7,3,5,7,3.1,Medium,No immediate flag
+SYN0236,24,Female,Thimphu,Urban,8.0,5.9,4,10,2,7,1,1.0,Medium,No immediate flag
+SYN0237,23,Male,Samtse,Urban,6.9,5.0,5,10,8,1,3,4.9,Medium,Support recommended
+SYN0238,21,Male,Mongar,Rural,8.6,4.0,2,3,2,1,10,8.1,Low,Support recommended
+SYN0239,20,Male,Paro,Rural,7.2,1.9,4,1,1,9,4,8.5,High,No immediate flag
+SYN0240,23,Male,Bumthang,Rural,7.6,4.0,6,3,5,2,8,5.9,Medium,No immediate flag
+SYN0241,19,Male,Chukha,Urban,5.8,2.9,2,9,6,8,4,9.1,Medium,Support recommended
+SYN0242,23,Male,Punakha,Rural,9.5,1.5,3,9,3,10,10,5.1,Medium,Support recommended
+SYN0243,18,Female,Chukha,Urban,7.4,3.4,1,1,3,5,9,7.1,High,Support recommended
+SYN0244,23,Female,Punakha,Rural,7.7,2.9,5,2,3,9,5,4.3,High,Support recommended
+SYN0245,23,Male,Punakha,Urban,4.8,6.2,0,6,4,5,7,4.2,Medium,No immediate flag
+SYN0246,18,Male,Thimphu,Rural,5.8,6.2,1,7,1,10,5,3.8,Medium,Support recommended
+SYN0247,24,Female,Wangdue Phodrang,Urban,8.3,3.2,5,10,1,3,10,1.1,Low,Support recommended
+SYN0248,21,Male,Mongar,Rural,7.2,4.5,0,8,4,5,4,7.8,Medium,No immediate flag
+SYN0249,25,Male,Sarpang,Rural,4.4,1.3,7,3,1,4,9,3.9,Medium,No immediate flag
+SYN0250,18,Female,Samtse,Rural,8.1,4.0,3,1,4,8,7,3.6,Low,Support recommended
+SYN0251,19,Female,Bumthang,Urban,6.1,5.8,3,7,6,1,7,2.8,High,No immediate flag
+SYN0252,22,Male,Bumthang,Rural,8.6,6.6,4,6,1,9,4,4.8,High,Support recommended
+SYN0253,19,Male,Sarpang,Rural,6.7,3.6,5,10,7,1,9,8.7,Medium,Support recommended
+SYN0254,20,Female,Samtse,Rural,7.1,7.1,3,6,7,4,8,9.4,High,Support recommended
+SYN0255,23,Male,Bumthang,Rural,8.3,2.0,7,6,6,6,9,1.9,Medium,Support recommended
+SYN0256,19,Female,Wangdue Phodrang,Rural,5.7,2.5,7,4,7,2,9,4.5,Medium,No immediate flag
+SYN0257,24,Male,Thimphu,Urban,5.6,6.4,1,1,9,5,2,3.1,High,No immediate flag
+SYN0258,18,Female,Chukha,Urban,6.6,8.3,5,9,1,10,9,7.2,Medium,No immediate flag
+SYN0259,19,Male,Trashigang,Urban,7.8,6.0,2,9,2,9,9,5.8,Medium,Support recommended
+SYN0260,23,Female,Paro,Urban,5.1,4.9,7,2,4,1,3,3.9,Medium,No immediate flag
+SYN0261,25,Female,Punakha,Rural,4.7,0.6,2,8,7,6,10,5.3,Low,Support recommended
+SYN0262,19,Male,Mongar,Rural,7.8,1.0,2,4,9,6,6,4.2,Medium,Support recommended
+SYN0263,20,Female,Paro,Rural,6.0,5.3,5,5,10,1,4,8.4,Medium,No immediate flag
+SYN0264,26,Female,Punakha,Rural,6.3,4.3,6,9,6,7,3,6.3,Medium,No immediate flag
+SYN0265,26,Female,Chukha,Rural,4.5,2.8,1,9,5,6,4,6.5,Low,No immediate flag
+SYN0266,23,Male,Wangdue Phodrang,Rural,6.0,5.1,4,2,5,7,1,0.5,Low,No immediate flag
+SYN0267,22,Male,Chukha,Rural,6.8,5.2,2,4,1,3,7,5.1,Medium,Support recommended
+SYN0268,21,Other / Prefer not to say,Sarpang,Urban,8.0,6.9,4,9,5,3,8,9.4,Low,No immediate flag
+SYN0269,23,Female,Thimphu,Rural,5.8,5.3,4,10,6,8,7,7.9,Medium,Support recommended
+SYN0270,23,Female,Sarpang,Rural,8.9,7.5,7,1,3,8,6,1.5,Medium,No immediate flag
+SYN0271,20,Female,Mongar,Urban,5.9,5.0,7,9,8,2,4,4.6,High,No immediate flag
+SYN0272,18,Male,Bumthang,Rural,5.9,4.8,5,5,9,3,8,2.8,Low,Support recommended
+SYN0273,19,Other / Prefer not to say,Bumthang,Rural,8.7,7.1,5,6,4,6,9,8.6,High,Support recommended
+SYN0274,26,Male,Paro,Rural,7.1,3.0,7,1,10,9,1,5.7,Medium,No immediate flag
+SYN0275,21,Male,Sarpang,Rural,6.1,10.6,1,7,2,3,4,3.7,Medium,No immediate flag
+SYN0276,22,Female,Wangdue Phodrang,Rural,6.6,5.8,5,7,10,3,10,5.3,High,Support recommended
+SYN0277,22,Male,Sarpang,Urban,8.5,5.8,6,7,8,9,9,0.5,Medium,No immediate flag
+SYN0278,25,Male,Bumthang,Urban,8.6,6.1,1,8,3,7,10,3.0,Medium,Support recommended
+SYN0279,18,Female,Wangdue Phodrang,Rural,5.8,8.8,7,10,7,10,2,5.3,Medium,Support recommended
+SYN0280,18,Female,Samtse,Rural,6.7,6.6,5,9,4,8,5,6.9,Medium,Support recommended
+SYN0281,20,Female,Paro,Rural,6.9,1.8,2,8,8,10,2,1.3,High,No immediate flag
+SYN0282,22,Female,Paro,Rural,5.6,7.8,3,10,2,2,9,4.4,Medium,Support recommended
+SYN0283,24,Female,Samtse,Rural,6.7,4.3,3,7,3,3,6,7.2,High,No immediate flag
+SYN0284,22,Female,Bumthang,Rural,6.8,5.2,7,7,4,3,3,2.3,Medium,No immediate flag
+SYN0285,21,Male,Wangdue Phodrang,Urban,8.2,2.4,7,6,2,1,1,5.7,High,No immediate flag
+SYN0286,26,Female,Punakha,Urban,8.3,6.1,6,8,4,8,8,5.3,High,Support recommended
+SYN0287,19,Female,Chukha,Urban,6.4,3.7,5,1,7,7,9,8.6,Low,No immediate flag
+SYN0288,23,Male,Wangdue Phodrang,Urban,6.5,5.2,0,6,7,1,9,4.7,Low,Support recommended
+SYN0289,22,Male,Trashigang,Rural,7.6,4.4,7,5,6,2,10,4.9,Medium,Support recommended
+SYN0290,22,Male,Sarpang,Rural,6.1,8.9,1,10,2,2,9,6.9,Medium,Support recommended
+SYN0291,25,Female,Mongar,Urban,7.5,9.0,1,1,3,5,8,2.5,Medium,No immediate flag
+SYN0292,20,Male,Trashigang,Rural,6.7,5.1,0,7,10,5,9,4.8,High,Support recommended
+SYN0293,26,Female,Sarpang,Rural,5.6,5.1,7,2,3,3,10,4.3,High,No immediate flag
+SYN0294,20,Female,Punakha,Urban,5.6,4.3,3,9,2,10,5,4.9,Medium,Support recommended
+SYN0295,22,Male,Sarpang,Urban,8.6,7.2,1,9,5,3,8,6.9,Medium,Support recommended
+SYN0296,22,Male,Samtse,Urban,6.6,4.3,0,3,1,6,9,6.3,Low,Support recommended
+SYN0297,25,Male,Paro,Rural,8.9,4.2,3,9,4,5,2,3.7,Medium,No immediate flag
+SYN0298,21,Male,Punakha,Urban,6.2,7.0,5,5,9,4,7,5.5,Low,No immediate flag
+SYN0299,20,Male,Paro,Urban,7.2,3.9,7,10,3,9,4,8.2,Medium,Support recommended
+SYN0300,18,Female,Paro,Urban,9.8,4.9,4,8,8,10,2,3.5,Medium,No immediate flag
+SYN0301,21,Female,Bumthang,Rural,5.5,1.8,4,1,5,1,2,5.5,Medium,Support recommended
+SYN0302,25,Female,Mongar,Urban,4.4,6.4,6,3,4,5,2,4.8,Medium,No immediate flag
+SYN0303,18,Female,Chukha,Rural,8.4,8.9,7,5,7,2,9,5.1,Medium,Support recommended
+SYN0304,26,Male,Bumthang,Urban,5.8,6.4,2,3,6,5,8,1.9,Low,No immediate flag
+SYN0305,22,Female,Thimphu,Rural,6.8,7.9,7,2,4,7,2,8.0,Low,No immediate flag
+SYN0306,19,Male,Chukha,Rural,6.1,3.3,4,10,3,5,7,3.7,High,Support recommended
+SYN0307,20,Male,Mongar,Rural,7.1,5.5,7,9,10,4,7,7.3,High,No immediate flag
+SYN0308,22,Male,Samtse,Urban,5.6,3.1,0,5,2,4,6,4.0,Medium,Support recommended
+SYN0309,20,Female,Mongar,Rural,6.6,4.5,0,3,10,3,7,3.9,Medium,No immediate flag
+SYN0310,18,Female,Bumthang,Rural,7.4,6.5,7,2,5,4,10,7.6,Medium,Support recommended
+SYN0311,23,Other / Prefer not to say,Thimphu,Urban,5.5,5.2,5,10,10,4,6,7.2,Medium,No immediate flag
+SYN0312,24,Male,Thimphu,Urban,5.9,2.2,1,4,4,7,7,5.6,Medium,No immediate flag
+SYN0313,19,Male,Sarpang,Rural,6.4,2.4,7,1,6,1,6,6.7,Low,No immediate flag
+SYN0314,20,Male,Wangdue Phodrang,Rural,5.0,2.2,0,4,7,1,4,4.6,Medium,Support recommended
+SYN0315,20,Male,Wangdue Phodrang,Urban,6.3,6.0,5,5,4,6,9,5.2,Medium,No immediate flag
+SYN0316,23,Female,Punakha,Urban,6.9,9.1,1,7,3,7,5,3.9,Medium,Support recommended
+SYN0317,24,Male,Punakha,Rural,6.3,7.7,0,4,6,3,8,7.0,Low,Support recommended
+SYN0318,24,Female,Trashigang,Rural,6.5,1.2,6,10,7,3,7,3.8,Medium,Support recommended
+SYN0319,26,Male,Wangdue Phodrang,Rural,6.8,7.8,6,7,3,7,7,8.2,Medium,No immediate flag
+SYN0320,24,Male,Paro,Rural,6.0,6.9,0,10,8,4,8,4.6,Medium,No immediate flag
+SYN0321,20,Male,Trashigang,Rural,7.7,1.9,0,4,7,8,8,5.2,Medium,Support recommended
+SYN0322,18,Female,Trashigang,Urban,8.6,4.4,4,7,2,2,6,6.7,Medium,No immediate flag
+SYN0323,23,Female,Paro,Rural,6.2,7.2,0,4,10,2,7,5.2,High,No immediate flag
+SYN0324,26,Male,Samtse,Urban,7.4,6.1,5,7,1,6,6,4.6,High,Support recommended
+SYN0325,26,Female,Mongar,Urban,6.5,2.4,7,8,7,4,4,5.1,Low,Support recommended
+SYN0326,20,Female,Trashigang,Urban,7.3,6.2,6,4,5,8,8,7.0,High,Support recommended
+SYN0327,20,Female,Paro,Urban,8.8,0.7,1,10,7,6,9,3.9,Medium,Support recommended
+SYN0328,18,Female,Thimphu,Rural,7.4,4.6,1,9,8,4,8,4.9,Medium,No immediate flag
+SYN0329,19,Female,Wangdue Phodrang,Urban,4.6,7.3,5,9,7,2,8,5.2,Medium,Support recommended
+SYN0330,22,Male,Punakha,Rural,7.4,5.0,0,3,7,2,9,6.9,Medium,No immediate flag
+SYN0331,22,Female,Sarpang,Rural,8.3,4.0,4,8,9,8,4,5.0,Low,No immediate flag
+SYN0332,21,Female,Wangdue Phodrang,Rural,6.5,6.8,3,2,8,3,1,8.8,High,No immediate flag
+SYN0333,20,Female,Sarpang,Rural,8.0,6.9,5,2,9,6,4,4.9,Medium,No immediate flag
+SYN0334,25,Female,Chukha,Rural,5.9,7.6,1,10,5,9,8,4.7,Medium,Support recommended
+SYN0335,22,Female,Punakha,Rural,4.9,6.7,6,2,3,9,9,4.9,Medium,Support recommended
+SYN0336,25,Male,Paro,Urban,7.0,7.2,5,9,3,3,6,2.6,Low,Support recommended
+SYN0337,26,Female,Wangdue Phodrang,Rural,4.6,6.5,1,5,7,2,8,3.1,Low,Support recommended
+SYN0338,20,Female,Paro,Rural,6.5,5.5,2,4,6,8,1,4.1,Medium,No immediate flag
+SYN0339,19,Female,Punakha,Urban,8.4,5.2,0,1,1,7,7,7.5,Medium,Support recommended
+SYN0340,26,Female,Samtse,Urban,4.4,4.5,3,7,3,4,7,5.1,High,No immediate flag
+SYN0341,23,Female,Paro,Urban,5.2,2.6,2,8,10,6,6,4.2,Medium,Support recommended
+SYN0342,20,Female,Thimphu,Rural,5.5,3.1,0,5,8,2,8,7.7,Medium,Support recommended
+SYN0343,23,Male,Wangdue Phodrang,Rural,6.7,4.4,4,9,8,8,5,8.3,High,Support recommended
+SYN0344,22,Female,Sarpang,Urban,6.3,5.5,4,4,2,8,6,7.7,Low,Support recommended
+SYN0345,26,Male,Paro,Rural,8.5,7.9,0,6,1,3,7,3.5,Medium,Support recommended
+SYN0346,20,Male,Punakha,Rural,8.0,4.9,1,3,3,5,8,4.2,Medium,Support recommended
+SYN0347,26,Female,Chukha,Urban,7.4,7.0,0,6,9,4,3,8.8,Medium,Support recommended
+SYN0348,26,Female,Bumthang,Rural,7.0,7.2,5,2,6,1,4,5.7,Low,No immediate flag
+SYN0349,19,Male,Punakha,Urban,7.3,4.5,2,5,8,2,5,4.7,Low,No immediate flag
+SYN0350,19,Male,Sarpang,Rural,5.7,6.2,0,6,5,10,3,6.6,Low,Support recommended
+SYN0351,22,Female,Chukha,Rural,7.9,4.5,1,6,5,5,4,7.2,Medium,No immediate flag
+SYN0352,18,Female,Thimphu,Urban,5.4,7.6,7,5,7,2,4,4.1,Low,No immediate flag
+SYN0353,20,Female,Wangdue Phodrang,Rural,7.8,6.3,2,7,10,1,4,5.6,Medium,Support recommended
+SYN0354,21,Female,Trashigang,Rural,8.3,2.6,5,6,5,4,5,7.1,Low,Support recommended
+SYN0355,26,Male,Sarpang,Rural,7.1,5.3,3,3,6,10,6,2.9,Low,No immediate flag
+SYN0356,26,Female,Bumthang,Rural,6.6,8.3,1,3,10,4,7,5.2,Medium,No immediate flag
+SYN0357,19,Female,Bumthang,Rural,7.3,4.6,2,7,4,10,4,3.0,Low,No immediate flag
+SYN0358,26,Male,Trashigang,Urban,3.2,5.9,0,10,9,5,9,3.2,High,Support recommended
+SYN0359,18,Female,Samtse,Rural,7.2,6.1,5,8,6,8,5,4.1,Medium,No immediate flag
+SYN0360,24,Female,Punakha,Rural,6.7,2.9,2,7,9,8,8,6.2,Low,Support recommended
+SYN0361,25,Male,Paro,Rural,6.7,6.0,3,10,5,1,2,4.6,Low,Support recommended
+SYN0362,26,Female,Punakha,Rural,7.7,2.2,1,9,7,1,2,3.9,Medium,Support recommended
+SYN0363,20,Female,Samtse,Rural,6.7,3.7,6,6,4,10,5,5.3,Medium,Support recommended
+SYN0364,26,Female,Thimphu,Urban,5.4,7.2,1,2,7,10,4,2.9,High,No immediate flag
+SYN0365,19,Male,Chukha,Rural,6.6,5.7,4,7,4,2,5,6.1,Medium,Support recommended
+SYN0366,22,Female,Wangdue Phodrang,Urban,6.9,4.4,6,7,7,7,2,7.5,Medium,Support recommended
+SYN0367,22,Female,Samtse,Rural,6.9,5.9,5,3,8,10,5,5.0,Medium,Support recommended
+SYN0368,20,Female,Sarpang,Rural,7.0,4.9,4,9,5,10,7,4.8,High,Support recommended
+SYN0369,18,Female,Punakha,Rural,8.1,5.0,7,9,5,3,8,5.9,Medium,No immediate flag
+SYN0370,24,Male,Sarpang,Rural,5.4,6.3,1,4,4,9,3,1.1,Medium,No immediate flag
+SYN0371,21,Female,Trashigang,Urban,7.0,3.5,7,5,8,7,4,6.3,Medium,No immediate flag
+SYN0372,23,Male,Thimphu,Rural,8.4,5.1,4,2,6,10,6,11.4,High,No immediate flag
+SYN0373,21,Male,Chukha,Rural,4.6,4.4,3,2,6,2,6,5.0,Medium,No immediate flag
+SYN0374,21,Male,Mongar,Urban,7.0,1.8,2,3,1,7,8,5.0,High,Support recommended
+SYN0375,25,Female,Wangdue Phodrang,Urban,6.1,3.2,5,4,2,1,4,6.7,High,Support recommended
+SYN0376,18,Male,Samtse,Urban,6.3,8.1,7,3,1,4,7,8.5,Low,No immediate flag
+SYN0377,24,Male,Wangdue Phodrang,Rural,5.7,5.8,5,2,9,1,9,7.1,High,No immediate flag
+SYN0378,24,Female,Sarpang,Rural,6.6,2.4,0,5,9,5,3,0.9,Medium,No immediate flag
+SYN0379,21,Male,Samtse,Rural,9.1,1.9,3,7,1,9,9,6.3,Medium,Support recommended
+SYN0380,20,Male,Thimphu,Urban,5.2,4.8,5,4,1,7,4,10.3,Medium,No immediate flag
+SYN0381,18,Female,Samtse,Rural,5.3,8.1,3,6,8,4,4,6.4,High,No immediate flag
+SYN0382,26,Male,Sarpang,Urban,5.2,4.6,6,3,6,5,7,2.9,Medium,No immediate flag
+SYN0383,26,Female,Mongar,Rural,9.0,7.6,5,8,4,4,7,5.8,Medium,No immediate flag
+SYN0384,20,Male,Bumthang,Urban,6.2,5.7,0,7,7,8,6,2.6,Low,Support recommended
+SYN0385,18,Other / Prefer not to say,Sarpang,Rural,6.8,5.9,4,10,3,3,3,7.7,Medium,Support recommended
+SYN0386,19,Female,Paro,Rural,6.3,2.3,1,1,2,1,1,3.3,High,No immediate flag
+SYN0387,18,Male,Chukha,Urban,5.6,6.9,3,9,4,6,10,5.3,Medium,Support recommended
+SYN0388,25,Female,Thimphu,Rural,6.5,4.3,3,4,9,9,9,3.5,Low,Support recommended
+SYN0389,26,Male,Thimphu,Rural,9.9,6.7,6,1,8,5,9,4.1,High,No immediate flag
+SYN0390,19,Male,Bumthang,Urban,8.5,3.4,6,7,2,3,6,8.2,High,Support recommended
+SYN0391,24,Female,Sarpang,Urban,5.7,5.4,3,2,6,1,9,5.4,Medium,Support recommended
+SYN0392,19,Female,Paro,Rural,7.6,5.7,4,2,9,10,5,4.1,Low,No immediate flag
+SYN0393,21,Female,Mongar,Urban,5.8,4.7,5,10,10,8,1,2.9,Medium,Support recommended
+SYN0394,23,Female,Wangdue Phodrang,Urban,4.6,5.8,5,3,8,2,2,1.5,Low,No immediate flag
+SYN0395,24,Female,Thimphu,Rural,8.1,4.5,5,6,2,1,3,2.7,Medium,Support recommended
+SYN0396,25,Female,Sarpang,Rural,8.3,3.7,6,3,3,2,4,5.4,Medium,No immediate flag
+SYN0397,18,Female,Bumthang,Urban,8.1,8.2,7,2,3,4,10,7.2,High,Support recommended
+SYN0398,19,Female,Wangdue Phodrang,Urban,6.2,7.1,6,1,2,9,4,4.1,Medium,No immediate flag
+SYN0399,20,Male,Mongar,Rural,6.6,3.5,1,1,2,2,7,8.3,High,Support recommended
+SYN0400,20,Male,Samtse,Rural,7.7,6.1,3,5,4,9,3,3.8,High,No immediate flag
+SYN0401,26,Male,Mongar,Rural,7.3,3.5,3,5,6,1,7,4.7,Low,No immediate flag
+SYN0402,24,Female,Punakha,Rural,6.3,2.6,4,1,4,8,6,3.0,Low,No immediate flag
+SYN0403,20,Male,Sarpang,Rural,4.8,7.1,4,4,5,3,2,7.2,Medium,No immediate flag
+SYN0404,26,Male,Thimphu,Rural,6.9,1.6,5,3,3,10,5,9.4,High,No immediate flag
+SYN0405,22,Female,Paro,Urban,8.1,6.9,3,6,2,5,2,1.7,Medium,Support recommended
+SYN0406,22,Female,Sarpang,Rural,5.3,4.5,2,10,10,3,9,4.5,Medium,Support recommended
+SYN0407,21,Male,Chukha,Rural,7.6,4.6,3,7,6,3,8,7.7,Medium,No immediate flag
+SYN0408,19,Female,Samtse,Urban,7.2,5.8,6,10,3,9,10,2.3,Medium,Support recommended
+SYN0409,26,Male,Mongar,Urban,7.7,6.2,2,2,9,5,9,6.3,Medium,No immediate flag
+SYN0410,18,Other / Prefer not to say,Paro,Rural,7.9,3.3,0,3,9,4,3,7.6,Low,Support recommended
+SYN0411,19,Female,Wangdue Phodrang,Urban,5.9,6.4,7,8,10,8,8,5.4,Low,No immediate flag
+SYN0412,20,Female,Chukha,Urban,4.8,5.2,1,4,2,6,2,6.3,Low,No immediate flag
+SYN0413,20,Other / Prefer not to say,Paro,Urban,6.1,2.5,4,9,7,7,10,8.7,High,Support recommended
+SYN0414,19,Male,Sarpang,Rural,7.9,4.7,6,5,10,5,8,9.1,High,No immediate flag
+SYN0415,18,Female,Paro,Rural,6.1,7.8,2,3,9,1,7,5.1,High,Support recommended
+SYN0416,24,Male,Thimphu,Rural,5.9,8.4,2,9,3,1,10,4.1,Low,Support recommended
+SYN0417,26,Male,Trashigang,Urban,4.5,6.4,2,6,9,1,9,3.4,Medium,Support recommended
+SYN0418,19,Male,Bumthang,Urban,9.0,2.6,1,9,5,6,9,7.2,Low,Support recommended
+SYN0419,20,Male,Paro,Rural,7.8,6.0,1,5,5,6,2,2.5,Medium,No immediate flag
+SYN0420,22,Female,Mongar,Urban,7.8,6.7,1,2,6,8,1,4.7,Medium,No immediate flag
+SYN0421,26,Female,Wangdue Phodrang,Rural,8.0,6.5,3,7,8,9,10,5.4,High,Support recommended
+SYN0422,24,Male,Bumthang,Urban,7.5,6.6,4,2,2,2,3,4.2,Low,No immediate flag
+SYN0423,24,Female,Paro,Urban,6.5,5.7,0,7,6,10,5,5.8,Medium,No immediate flag
+SYN0424,23,Male,Sarpang,Urban,6.6,4.9,6,5,9,10,1,10.3,High,No immediate flag
+SYN0425,21,Male,Trashigang,Rural,6.3,3.8,5,8,6,7,7,5.0,Medium,No immediate flag
+SYN0426,19,Female,Bumthang,Rural,10.0,1.2,0,9,3,6,9,4.3,Low,Support recommended
+SYN0427,25,Male,Samtse,Rural,7.5,5.7,6,5,1,2,9,7.2,High,Support recommended
+SYN0428,25,Female,Sarpang,Urban,6.2,5.4,0,9,6,2,6,5.7,Medium,Support recommended
+SYN0429,18,Male,Trashigang,Rural,7.4,6.1,4,2,8,1,7,8.1,Medium,No immediate flag
+SYN0430,24,Female,Paro,Rural,5.5,2.3,3,2,6,7,6,5.5,Medium,No immediate flag
+SYN0431,18,Male,Sarpang,Urban,8.7,6.3,4,10,10,5,5,4.7,High,No immediate flag
+SYN0432,24,Male,Mongar,Rural,6.0,9.1,7,6,7,2,6,1.6,Medium,No immediate flag
+SYN0433,25,Female,Samtse,Urban,7.4,5.2,7,5,6,2,10,2.0,Medium,No immediate flag
+SYN0434,19,Male,Wangdue Phodrang,Rural,8.1,4.9,2,2,1,1,3,1.5,Medium,No immediate flag
+SYN0435,21,Male,Samtse,Urban,7.3,5.6,4,3,6,7,5,6.0,Low,Support recommended
+SYN0436,19,Male,Wangdue Phodrang,Rural,6.9,9.1,7,7,2,7,7,2.5,High,Support recommended
+SYN0437,23,Male,Sarpang,Rural,6.8,3.0,5,9,8,7,6,7.7,Low,Support recommended
+SYN0438,26,Other / Prefer not to say,Bumthang,Urban,6.7,5.4,7,10,2,2,1,5.3,Medium,No immediate flag
+SYN0439,18,Female,Chukha,Rural,6.1,3.4,3,5,10,1,3,4.7,Medium,No immediate flag
+SYN0440,21,Male,Sarpang,Rural,6.2,3.9,2,5,4,2,7,3.5,Medium,No immediate flag
+SYN0441,26,Female,Punakha,Urban,8.6,4.9,4,2,5,8,7,6.4,Medium,No immediate flag
+SYN0442,20,Male,Mongar,Rural,6.7,7.7,6,1,2,8,8,3.6,Medium,No immediate flag
+SYN0443,19,Male,Mongar,Rural,5.8,8.6,7,5,3,3,10,3.2,Medium,No immediate flag
+SYN0444,22,Female,Punakha,Rural,6.2,5.9,5,6,10,1,7,7.6,Low,No immediate flag
+SYN0445,22,Female,Punakha,Rural,8.2,4.2,5,2,3,4,6,5.9,High,Support recommended
+SYN0446,23,Male,Punakha,Urban,7.6,10.0,4,5,6,9,4,4.7,High,No immediate flag
+SYN0447,20,Female,Bumthang,Rural,7.5,4.1,2,7,10,2,4,6.5,Medium,No immediate flag
+SYN0448,26,Male,Samtse,Rural,6.5,3.9,3,9,7,8,9,5.2,Medium,Support recommended
+SYN0449,22,Female,Chukha,Urban,7.5,1.5,3,10,1,5,5,6.0,Low,Support recommended
+SYN0450,20,Other / Prefer not to say,Samtse,Urban,6.0,7.8,6,4,4,2,8,3.6,Low,Support recommended
+SYN0451,26,Female,Paro,Rural,6.5,6.9,4,4,4,10,2,9.3,Medium,No immediate flag
+SYN0452,26,Female,Samtse,Urban,8.0,9.8,6,9,3,6,2,4.0,High,No immediate flag
+SYN0453,22,Male,Paro,Rural,7.9,2.2,0,7,3,7,3,8.3,Medium,Support recommended
+SYN0454,18,Male,Thimphu,Rural,5.6,7.9,6,3,6,1,2,4.8,Medium,No immediate flag
+SYN0455,23,Female,Mongar,Urban,5.7,5.1,4,7,4,4,7,6.8,High,Support recommended
+SYN0456,22,Female,Thimphu,Rural,6.9,6.6,7,2,3,7,7,6.7,Medium,No immediate flag
+SYN0457,19,Male,Wangdue Phodrang,Rural,9.0,1.7,3,5,5,7,6,7.5,Medium,Support recommended
+SYN0458,23,Male,Mongar,Rural,4.4,7.9,3,4,4,1,3,3.5,Medium,Support recommended
+SYN0459,25,Female,Mongar,Urban,7.1,6.6,1,10,3,7,6,7.4,Low,Support recommended
+SYN0460,18,Male,Punakha,Urban,5.1,4.9,6,1,5,10,2,8.9,High,No immediate flag
+SYN0461,24,Male,Paro,Rural,6.0,6.3,5,9,10,8,5,4.7,Medium,No immediate flag
+SYN0462,19,Male,Sarpang,Urban,6.3,3.5,6,3,6,3,2,5.3,Medium,No immediate flag
+SYN0463,24,Male,Bumthang,Rural,6.3,3.8,0,1,6,10,1,4.2,Medium,No immediate flag
+SYN0464,21,Male,Trashigang,Urban,6.1,4.1,1,7,10,7,2,4.5,High,No immediate flag
+SYN0465,18,Female,Thimphu,Rural,6.8,1.3,7,7,7,1,2,8.6,Medium,Support recommended
+SYN0466,26,Male,Thimphu,Rural,6.1,6.7,0,2,3,2,5,3.2,Medium,No immediate flag
+SYN0467,19,Male,Samtse,Rural,5.0,7.4,4,1,4,10,6,3.3,Low,Support recommended
+SYN0468,23,Male,Paro,Rural,7.8,3.6,3,2,5,3,7,8.4,High,No immediate flag
+SYN0469,19,Female,Bumthang,Urban,7.7,5.7,7,5,5,1,5,6.4,Medium,No immediate flag
+SYN0470,26,Female,Chukha,Rural,7.9,4.5,6,2,2,5,2,9.4,Medium,No immediate flag
+SYN0471,24,Male,Chukha,Rural,4.9,5.7,7,8,2,6,1,4.3,High,No immediate flag
+SYN0472,25,Female,Sarpang,Rural,7.2,3.7,2,1,4,6,8,5.5,Low,No immediate flag
+SYN0473,21,Other / Prefer not to say,Bumthang,Urban,7.6,3.2,4,8,10,7,10,3.9,Medium,Support recommended
+SYN0474,22,Female,Chukha,Rural,5.5,7.1,5,9,8,10,3,5.5,Medium,Support recommended
+SYN0475,23,Male,Samtse,Rural,6.8,4.9,7,8,9,8,3,1.7,Medium,No immediate flag
+SYN0476,25,Male,Wangdue Phodrang,Rural,6.7,9.0,0,10,2,1,4,6.6,Medium,No immediate flag
+SYN0477,25,Female,Trashigang,Rural,9.1,5.1,7,10,5,1,3,5.8,Medium,No immediate flag
+SYN0478,18,Female,Sarpang,Urban,9.2,3.1,2,1,6,1,3,5.1,Low,Support recommended
+SYN0479,23,Male,Bumthang,Urban,4.7,7.5,1,4,5,4,5,4.4,Low,No immediate flag
+SYN0480,18,Male,Sarpang,Urban,9.9,6.3,4,8,5,4,8,3.4,Low,Support recommended
+SYN0481,20,Female,Thimphu,Rural,5.7,6.5,6,4,4,10,8,6.7,High,No immediate flag
+SYN0482,25,Male,Chukha,Urban,8.0,7.4,1,8,1,4,10,2.9,Medium,Support recommended
+SYN0483,20,Male,Wangdue Phodrang,Rural,8.0,3.7,0,8,9,1,4,6.2,Medium,Support recommended
+SYN0484,25,Female,Thimphu,Urban,5.6,4.7,7,10,10,9,5,9.3,Medium,No immediate flag
+SYN0485,22,Female,Samtse,Rural,7.4,4.7,7,4,1,3,4,8.2,Medium,Support recommended
+SYN0486,20,Female,Paro,Urban,6.7,2.4,1,4,5,10,1,2.2,Low,No immediate flag
+SYN0487,21,Female,Sarpang,Urban,7.5,4.5,7,1,6,8,4,4.1,Medium,No immediate flag
+SYN0488,22,Female,Thimphu,Urban,7.1,7.7,7,3,8,9,3,6.0,Medium,No immediate flag
+SYN0489,24,Female,Paro,Rural,8.3,5.5,7,3,10,9,5,5.1,Medium,No immediate flag
+SYN0490,23,Male,Paro,Rural,6.9,2.3,1,5,5,2,2,2.4,High,Support recommended
+SYN0491,26,Female,Paro,Urban,6.6,1.9,4,5,8,7,8,6.0,High,No immediate flag
+SYN0492,25,Male,Wangdue Phodrang,Rural,8.2,8.3,7,9,10,5,9,5.2,High,Support recommended
+SYN0493,24,Female,Samtse,Rural,7.5,4.8,7,8,9,7,10,9.0,Low,Support recommended
+SYN0494,23,Female,Sarpang,Urban,7.7,3.7,4,8,3,8,1,4.7,Low,Support recommended
+SYN0495,20,Male,Chukha,Rural,6.0,4.5,1,1,9,6,2,7.5,Low,No immediate flag
+SYN0496,21,Male,Wangdue Phodrang,Urban,5.5,2.0,0,5,5,4,10,2.7,High,No immediate flag
+SYN0497,19,Female,Trashigang,Urban,6.1,7.8,2,8,1,10,9,3.1,High,Support recommended
+SYN0498,21,Female,Trashigang,Rural,6.0,4.2,0,3,8,7,6,6.6,High,No immediate flag
+SYN0499,26,Female,Mongar,Urban,7.8,7.7,1,5,9,9,4,7.4,Medium,No immediate flag
+SYN0500,21,Male,Chukha,Urban,8.0,5.1,0,8,4,3,6,3.3,High,Support recommended
+SYN0501,19,Female,Wangdue Phodrang,Rural,6.6,7.9,6,8,5,9,6,5.2,Medium,Support recommended
+SYN0502,23,Female,Bumthang,Urban,8.6,5.5,4,9,4,4,9,2.4,High,Support recommended
+SYN0503,26,Female,Bumthang,Rural,8.5,6.7,4,5,2,5,6,4.8,Medium,Support recommended
+SYN0504,25,Male,Trashigang,Rural,7.1,6.4,6,4,10,9,1,6.9,Low,No immediate flag
+SYN0505,20,Male,Trashigang,Rural,5.8,6.2,3,4,1,4,7,4.3,Low,Support recommended
+SYN0506,22,Male,Bumthang,Rural,8.8,5.7,3,7,6,3,8,4.7,High,Support recommended
+SYN0507,22,Male,Trashigang,Rural,6.7,4.5,1,5,1,10,3,2.9,Medium,No immediate flag
+SYN0508,20,Female,Sarpang,Rural,7.0,8.8,3,5,7,10,2,3.9,Medium,Support recommended
+SYN0509,20,Female,Paro,Urban,6.4,3.2,1,2,10,4,2,8.7,Medium,No immediate flag
+SYN0510,20,Female,Samtse,Urban,5.7,5.0,4,5,7,4,9,5.3,Medium,No immediate flag
+SYN0511,26,Male,Paro,Rural,5.0,5.0,7,3,7,3,5,3.2,High,No immediate flag
+SYN0512,24,Male,Thimphu,Rural,7.6,5.8,4,6,9,1,6,4.6,Low,Support recommended
+SYN0513,25,Male,Punakha,Urban,5.8,4.1,2,9,10,6,10,2.0,Low,No immediate flag
+SYN0514,25,Other / Prefer not to say,Chukha,Rural,10.0,5.6,5,8,9,3,1,3.2,High,No immediate flag
+SYN0515,26,Other / Prefer not to say,Punakha,Urban,5.4,4.7,6,5,3,9,3,7.9,Medium,Support recommended
+SYN0516,18,Male,Punakha,Rural,5.2,1.8,3,10,6,2,9,4.9,Low,Support recommended
+SYN0517,25,Female,Trashigang,Urban,7.4,5.0,2,10,9,7,6,9.0,Low,Support recommended
+SYN0518,18,Female,Sarpang,Urban,8.7,2.8,5,5,3,6,1,5.0,Low,Support recommended
+SYN0519,22,Female,Bumthang,Urban,6.9,1.5,1,8,7,7,8,5.1,Medium,Support recommended
+SYN0520,23,Male,Samtse,Urban,7.5,5.3,7,4,1,2,2,6.5,Low,No immediate flag
+SYN0521,21,Female,Samtse,Urban,4.5,6.0,2,9,9,5,8,0.5,Low,No immediate flag
+SYN0522,19,Male,Mongar,Urban,6.0,6.1,2,4,7,7,8,5.6,Medium,Support recommended
+SYN0523,19,Male,Paro,Urban,5.5,6.1,5,3,8,4,9,5.1,High,No immediate flag
+SYN0524,25,Male,Wangdue Phodrang,Urban,4.4,1.1,0,2,9,9,5,8.2,High,No immediate flag
+SYN0525,20,Female,Punakha,Urban,6.9,2.3,1,9,3,6,3,7.1,Medium,No immediate flag
+SYN0526,20,Female,Paro,Rural,4.0,8.9,1,3,5,4,9,2.9,Medium,Support recommended
+SYN0527,26,Female,Trashigang,Urban,5.1,2.9,3,9,9,1,6,7.7,High,No immediate flag
+SYN0528,19,Male,Samtse,Urban,6.1,6.2,4,1,2,2,7,4.7,High,No immediate flag
+SYN0529,26,Male,Paro,Urban,5.8,3.6,1,6,9,5,2,3.4,Medium,No immediate flag
+SYN0530,26,Male,Trashigang,Urban,7.3,5.2,2,5,3,5,7,5.6,Medium,No immediate flag
+SYN0531,23,Female,Paro,Urban,7.2,3.7,6,5,6,9,6,4.8,Medium,Support recommended
+SYN0532,19,Female,Trashigang,Rural,7.9,6.1,7,2,6,8,3,8.3,Medium,No immediate flag
+SYN0533,19,Female,Paro,Rural,7.7,5.3,0,1,7,2,8,5.9,Medium,Support recommended
+SYN0534,20,Male,Punakha,Rural,8.2,4.1,5,4,9,6,2,5.6,Low,Support recommended
+SYN0535,23,Male,Bumthang,Rural,6.8,2.9,0,5,4,5,8,7.0,High,No immediate flag
+SYN0536,19,Female,Chukha,Rural,7.2,5.5,4,8,2,2,10,7.4,Medium,Support recommended
+SYN0537,22,Male,Mongar,Urban,7.4,2.6,7,5,5,7,6,6.8,Medium,No immediate flag
+SYN0538,19,Female,Mongar,Rural,7.0,5.9,6,3,7,6,2,8.0,Low,No immediate flag
+SYN0539,22,Male,Sarpang,Rural,6.3,10.3,1,3,8,1,6,6.4,High,No immediate flag
+SYN0540,18,Female,Paro,Rural,6.4,7.7,2,7,8,5,6,5.5,Medium,No immediate flag
+SYN0541,24,Female,Mongar,Rural,5.8,6.4,6,5,4,8,6,7.7,Low,Support recommended
+SYN0542,18,Male,Sarpang,Rural,7.3,4.8,6,10,10,4,3,5.0,Medium,Support recommended
+SYN0543,19,Female,Mongar,Rural,6.7,1.1,2,5,1,4,7,5.3,Medium,Support recommended
+SYN0544,19,Female,Paro,Rural,6.0,2.4,0,6,2,2,3,8.6,High,Support recommended
+SYN0545,25,Female,Bumthang,Urban,6.0,7.6,3,1,1,3,6,8.4,Low,No immediate flag
+SYN0546,18,Female,Paro,Rural,5.3,3.4,4,2,10,10,6,5.2,High,Support recommended
+SYN0547,21,Male,Wangdue Phodrang,Urban,8.0,3.6,3,9,2,7,7,4.3,Medium,Support recommended
+SYN0548,23,Male,Punakha,Rural,6.9,4.7,7,4,7,2,8,8.1,Low,Support recommended
+SYN0549,22,Male,Wangdue Phodrang,Rural,5.7,2.9,6,5,9,5,9,6.8,Low,Support recommended
+SYN0550,24,Female,Wangdue Phodrang,Urban,7.8,2.5,6,6,8,2,8,5.8,Low,Support recommended
+SYN0551,25,Male,Thimphu,Rural,6.1,4.9,0,1,10,5,8,4.6,Medium,No immediate flag
+SYN0552,21,Female,Wangdue Phodrang,Urban,5.0,3.2,6,6,1,2,9,5.9,Medium,Support recommended
+SYN0553,25,Female,Sarpang,Rural,8.1,3.5,6,4,5,7,3,5.2,Medium,No immediate flag
+SYN0554,20,Female,Punakha,Rural,6.1,3.4,3,2,6,6,3,3.9,Low,No immediate flag
+SYN0555,26,Male,Chukha,Rural,6.3,6.0,4,5,7,7,6,5.5,High,Support recommended
+SYN0556,22,Male,Sarpang,Rural,6.9,4.5,6,5,7,5,5,5.7,Low,No immediate flag
+SYN0557,24,Male,Thimphu,Urban,8.2,4.6,7,2,6,3,8,4.4,Medium,No immediate flag
+SYN0558,25,Male,Punakha,Urban,6.8,6.2,4,6,4,3,1,7.0,High,Support recommended
+SYN0559,25,Male,Wangdue Phodrang,Rural,5.3,4.7,0,8,2,3,2,7.8,High,No immediate flag
+SYN0560,25,Male,Punakha,Urban,7.5,4.4,4,3,5,5,8,7.1,Medium,No immediate flag
+SYN0561,22,Male,Sarpang,Rural,6.2,5.9,5,10,3,5,9,4.6,Medium,Support recommended
+SYN0562,18,Female,Punakha,Urban,9.2,6.3,0,7,6,7,4,6.7,Low,No immediate flag
+SYN0563,22,Female,Sarpang,Rural,6.8,4.7,6,8,8,1,4,5.4,Low,No immediate flag
+SYN0564,19,Female,Thimphu,Rural,4.0,5.2,1,1,6,3,6,2.7,Medium,Support recommended
+SYN0565,26,Male,Mongar,Rural,7.2,3.4,7,8,6,9,5,6.5,Low,Support recommended
+SYN0566,20,Male,Wangdue Phodrang,Urban,9.2,3.3,4,4,1,10,2,5.5,Medium,Support recommended
+SYN0567,20,Male,Chukha,Rural,8.8,6.5,2,8,7,10,6,10.4,Low,Support recommended
+SYN0568,20,Female,Chukha,Rural,9.1,5.9,0,9,5,4,9,8.1,High,Support recommended
+SYN0569,23,Male,Mongar,Urban,5.5,5.9,0,3,2,2,8,6.6,High,Support recommended
+SYN0570,23,Female,Trashigang,Rural,7.9,5.6,5,3,3,2,9,5.7,High,No immediate flag
+SYN0571,26,Female,Trashigang,Rural,5.9,5.1,3,1,8,2,7,5.5,Medium,No immediate flag
+SYN0572,21,Female,Thimphu,Urban,7.1,6.4,6,7,10,10,9,3.2,Low,No immediate flag
+SYN0573,20,Female,Wangdue Phodrang,Rural,5.2,6.9,1,8,6,9,3,1.7,Low,Support recommended
+SYN0574,18,Male,Sarpang,Urban,6.0,6.8,7,5,10,9,1,3.5,Medium,Support recommended
+SYN0575,18,Female,Thimphu,Urban,6.0,4.8,7,2,2,8,2,5.1,Medium,Support recommended
+SYN0576,21,Male,Punakha,Rural,7.9,7.8,0,4,3,4,10,1.0,Medium,No immediate flag
+SYN0577,26,Female,Punakha,Rural,7.8,5.5,5,5,10,5,7,4.1,Medium,No immediate flag
+SYN0578,22,Female,Bumthang,Rural,7.1,6.3,7,10,2,9,3,4.7,Medium,Support recommended
+SYN0579,26,Male,Chukha,Urban,5.1,5.6,2,2,7,9,9,4.8,Low,Support recommended
+SYN0580,18,Female,Punakha,Rural,6.4,5.5,0,4,3,6,4,3.9,Medium,Support recommended
+SYN0581,18,Other / Prefer not to say,Mongar,Rural,5.9,3.5,7,7,4,9,6,4.5,Medium,Support recommended
+SYN0582,25,Male,Thimphu,Rural,7.9,6.4,3,3,5,4,3,8.6,Medium,No immediate flag
+SYN0583,18,Male,Bumthang,Rural,8.3,10.7,0,9,4,5,1,6.5,High,No immediate flag
+SYN0584,18,Female,Bumthang,Urban,8.1,4.3,6,10,9,9,3,4.1,Medium,Support recommended
+SYN0585,21,Female,Mongar,Rural,5.9,5.1,5,4,10,4,3,5.1,Medium,Support recommended
+SYN0586,26,Male,Trashigang,Urban,3.4,4.1,0,8,6,8,6,5.1,High,Support recommended
+SYN0587,24,Female,Mongar,Rural,4.6,4.0,2,8,6,5,1,3.7,Low,Support recommended
+SYN0588,18,Female,Mongar,Rural,8.6,8.1,0,7,1,3,3,3.7,Medium,No immediate flag
+SYN0589,25,Female,Sarpang,Urban,6.3,3.7,7,2,3,3,6,7.2,Medium,No immediate flag
+SYN0590,25,Male,Punakha,Rural,5.9,4.1,0,1,1,7,4,4.4,Medium,Support recommended
+SYN0591,25,Male,Punakha,Urban,8.9,1.8,6,4,9,5,7,3.0,Low,No immediate flag
+SYN0592,26,Male,Trashigang,Rural,8.4,3.5,4,2,3,4,7,5.1,High,No immediate flag
+SYN0593,20,Male,Paro,Rural,6.8,1.6,4,3,4,8,10,5.4,High,Support recommended
+SYN0594,26,Female,Bumthang,Urban,6.4,6.3,6,7,9,1,9,1.3,Low,Support recommended
+SYN0595,20,Male,Mongar,Rural,6.6,10.6,7,6,8,1,3,5.1,Low,Support recommended
+SYN0596,25,Female,Trashigang,Rural,7.1,4.3,1,3,7,10,7,6.9,Low,No immediate flag
+SYN0597,23,Male,Samtse,Urban,8.8,1.7,0,1,1,7,7,6.1,High,No immediate flag
+SYN0598,25,Female,Samtse,Rural,7.3,6.8,0,3,6,6,6,9.7,Medium,Support recommended
+SYN0599,23,Other / Prefer not to say,Punakha,Urban,7.7,3.5,5,5,6,1,8,7.7,Low,No immediate flag
+SYN0600,23,Female,Trashigang,Rural,8.3,7.6,4,8,4,6,2,8.1,High,No immediate flag
+SYN0601,23,Female,Mongar,Urban,5.3,4.4,0,4,8,5,4,10.8,Medium,No immediate flag
+SYN0602,25,Female,Trashigang,Rural,7.7,3.7,1,3,10,6,9,6.7,Medium,Support recommended
+SYN0603,24,Female,Sarpang,Rural,6.4,4.6,4,6,3,1,9,5.5,Medium,Support recommended
+SYN0604,19,Female,Sarpang,Urban,3.7,6.5,5,1,4,6,1,7.1,Medium,No immediate flag
+SYN0605,25,Male,Mongar,Urban,4.1,4.5,2,3,4,6,5,4.1,Medium,No immediate flag
+SYN0606,22,Female,Samtse,Rural,5.5,4.0,7,1,9,3,3,5.4,Medium,No immediate flag
+SYN0607,20,Male,Wangdue Phodrang,Rural,7.5,4.6,7,6,1,1,2,3.9,Medium,Support recommended
+SYN0608,22,Female,Punakha,Rural,6.9,2.5,6,5,9,10,1,6.0,High,No immediate flag
+SYN0609,26,Male,Trashigang,Urban,7.0,5.8,3,6,8,8,6,3.9,Medium,Support recommended
+SYN0610,25,Female,Bumthang,Urban,9.2,1.4,7,7,5,7,7,3.8,High,No immediate flag
+SYN0611,25,Male,Samtse,Rural,5.2,4.1,5,4,6,8,6,6.0,Medium,No immediate flag
+SYN0612,22,Male,Wangdue Phodrang,Rural,6.8,6.5,4,9,9,7,4,4.9,High,No immediate flag
+SYN0613,25,Female,Thimphu,Rural,7.2,5.6,3,10,8,2,8,1.3,Medium,No immediate flag
+SYN0614,21,Male,Mongar,Rural,5.9,6.2,6,2,3,5,7,2.3,High,No immediate flag
+SYN0615,24,Female,Punakha,Rural,6.8,4.9,4,10,1,9,10,2.9,Medium,Support recommended
+SYN0616,23,Female,Punakha,Urban,4.8,7.3,1,2,7,3,4,3.4,Low,Support recommended
+SYN0617,20,Male,Wangdue Phodrang,Urban,8.6,6.8,7,3,2,10,3,6.0,Low,No immediate flag
+SYN0618,20,Male,Chukha,Rural,5.9,5.9,0,6,1,1,5,5.6,Low,No immediate flag
+SYN0619,18,Female,Wangdue Phodrang,Rural,9.3,6.9,5,1,10,4,6,7.3,High,No immediate flag
+SYN0620,19,Female,Mongar,Urban,6.8,6.5,5,4,5,4,5,6.7,High,No immediate flag
+SYN0621,21,Male,Samtse,Urban,8.1,4.1,4,2,7,7,9,7.3,High,No immediate flag
+SYN0622,22,Male,Paro,Rural,6.7,2.3,0,5,3,2,1,6.4,Low,Support recommended
+SYN0623,19,Other / Prefer not to say,Samtse,Rural,6.8,5.8,3,9,2,3,6,5.6,High,Support recommended
+SYN0624,21,Male,Paro,Urban,6.1,6.1,7,10,1,7,5,7.4,Medium,No immediate flag
+SYN0625,23,Male,Samtse,Rural,6.9,7.2,1,3,4,3,3,7.0,Medium,No immediate flag
+SYN0626,20,Female,Trashigang,Urban,7.2,3.1,5,6,1,9,7,6.0,Medium,Support recommended
+SYN0627,21,Male,Paro,Rural,5.8,3.2,6,5,5,9,9,7.7,Medium,Support recommended
+SYN0628,21,Female,Mongar,Urban,6.6,5.9,7,5,4,4,6,0.5,Low,No immediate flag
+SYN0629,22,Male,Chukha,Urban,6.0,4.9,4,7,6,6,1,4.6,Medium,No immediate flag
+SYN0630,21,Female,Bumthang,Rural,9.7,1.2,2,10,6,4,1,4.6,Medium,Support recommended
+SYN0631,24,Male,Mongar,Urban,6.7,5.8,5,5,4,4,5,7.5,Low,No immediate flag
+SYN0632,20,Male,Chukha,Rural,8.7,1.3,3,1,5,7,7,8.3,Medium,Support recommended
+SYN0633,21,Male,Wangdue Phodrang,Urban,6.6,3.1,5,10,1,3,4,2.3,Medium,No immediate flag
+SYN0634,21,Male,Paro,Rural,7.1,7.7,5,10,4,2,4,8.0,Medium,No immediate flag
+SYN0635,19,Female,Thimphu,Rural,5.1,8.6,5,4,10,3,9,2.9,High,Support recommended
+SYN0636,24,Male,Sarpang,Rural,6.2,2.6,1,6,10,10,1,2.9,High,No immediate flag
+SYN0637,20,Female,Bumthang,Urban,7.1,4.3,6,9,5,3,1,4.7,Medium,Support recommended
+SYN0638,20,Female,Paro,Urban,8.8,5.1,4,6,10,4,2,4.6,Medium,No immediate flag
+SYN0639,25,Female,Chukha,Urban,7.1,8.6,7,5,6,7,10,2.1,Medium,No immediate flag
+SYN0640,26,Female,Paro,Rural,8.5,4.0,5,10,2,2,5,6.5,Medium,Support recommended
+SYN0641,24,Female,Samtse,Urban,7.6,4.0,7,9,9,3,2,6.6,Low,No immediate flag
+SYN0642,26,Male,Chukha,Urban,8.8,8.1,7,6,5,2,4,7.3,Medium,Support recommended
+SYN0643,25,Male,Samtse,Urban,6.7,4.3,7,2,7,10,10,4.3,Medium,Support recommended
+SYN0644,22,Male,Wangdue Phodrang,Urban,9.8,6.4,5,5,7,10,7,5.1,Medium,Support recommended
+SYN0645,24,Female,Paro,Rural,6.2,2.0,4,7,4,8,3,5.1,High,No immediate flag
+SYN0646,20,Female,Bumthang,Urban,5.8,4.7,0,3,8,3,3,8.6,Medium,No immediate flag
+SYN0647,22,Female,Mongar,Urban,5.3,1.7,3,6,6,7,1,0.5,Medium,No immediate flag
+SYN0648,22,Male,Mongar,Rural,9.7,2.9,3,7,4,7,8,3.3,Low,No immediate flag
+SYN0649,26,Male,Paro,Rural,7.8,6.7,6,1,3,9,2,5.2,Low,No immediate flag
+SYN0650,25,Female,Mongar,Urban,6.4,4.9,4,6,8,2,3,3.0,Medium,No immediate flag
+SYN0651,22,Male,Bumthang,Rural,8.4,4.4,3,8,3,8,4,4.7,Medium,Support recommended
+SYN0652,23,Female,Paro,Rural,7.7,3.5,1,3,2,2,7,4.9,Low,No immediate flag
+SYN0653,19,Female,Mongar,Urban,9.3,4.6,5,6,9,6,7,3.9,Low,Support recommended
+SYN0654,25,Female,Samtse,Rural,4.9,5.6,3,8,4,9,8,5.3,Low,Support recommended
+SYN0655,22,Female,Mongar,Rural,6.5,7.0,0,1,7,1,3,6.5,High,Support recommended
+SYN0656,22,Male,Punakha,Rural,6.2,0.0,2,7,8,2,4,4.7,High,Support recommended
+SYN0657,24,Male,Bumthang,Rural,4.3,3.3,7,3,9,9,4,4.3,Medium,Support recommended
+SYN0658,23,Female,Paro,Rural,8.1,5.3,0,4,7,1,1,4.9,Low,No immediate flag
+SYN0659,18,Male,Samtse,Urban,6.5,4.8,3,7,8,7,8,5.2,Low,Support recommended
+SYN0660,20,Male,Chukha,Rural,7.7,5.8,4,1,9,6,6,1.7,Low,No immediate flag
+SYN0661,19,Male,Chukha,Rural,9.7,5.5,0,1,10,4,5,6.1,Medium,No immediate flag
+SYN0662,24,Male,Samtse,Rural,6.4,4.4,1,5,1,9,10,4.3,Low,Support recommended
+SYN0663,18,Female,Samtse,Rural,6.3,3.9,7,10,8,9,2,7.7,Medium,Support recommended
+SYN0664,19,Male,Paro,Urban,6.9,4.5,4,1,2,4,10,6.4,High,Support recommended
+SYN0665,23,Female,Mongar,Rural,8.0,7.3,1,8,9,1,7,7.5,Medium,Support recommended
+SYN0666,24,Other / Prefer not to say,Wangdue Phodrang,Urban,6.1,3.5,1,1,1,2,3,3.2,High,No immediate flag
+SYN0667,22,Female,Bumthang,Rural,6.0,4.9,3,5,3,2,7,4.5,Low,Support recommended
+SYN0668,25,Male,Mongar,Rural,8.1,5.4,5,5,2,10,8,2.7,Medium,No immediate flag
+SYN0669,26,Female,Paro,Rural,7.3,8.1,5,5,7,6,4,3.8,High,Support recommended
+SYN0670,19,Female,Thimphu,Rural,4.2,4.4,1,1,1,7,4,7.7,Medium,Support recommended
+SYN0671,26,Male,Punakha,Rural,5.3,6.9,5,8,1,3,9,8.2,Medium,Support recommended
+SYN0672,23,Male,Punakha,Rural,8.7,7.5,7,3,6,9,2,2.9,High,No immediate flag
+SYN0673,23,Female,Chukha,Rural,7.3,4.9,1,8,10,8,1,4.3,Medium,No immediate flag
+SYN0674,18,Male,Mongar,Rural,5.8,4.6,0,7,6,8,7,5.0,Medium,Support recommended
+SYN0675,23,Male,Wangdue Phodrang,Rural,6.6,4.3,7,6,5,5,10,6.4,Medium,Support recommended
+SYN0676,24,Female,Mongar,Urban,6.8,4.5,4,4,7,7,6,1.7,Low,No immediate flag
+SYN0677,23,Male,Paro,Rural,7.7,6.7,6,7,6,6,2,2.0,Low,Support recommended
+SYN0678,18,Male,Bumthang,Urban,5.1,5.5,2,10,4,4,6,6.2,Low,Support recommended
+SYN0679,22,Male,Chukha,Rural,5.7,5.5,2,10,6,6,3,1.3,High,Support recommended
+SYN0680,26,Female,Punakha,Rural,7.1,2.7,1,10,1,4,9,4.3,Medium,Support recommended
+SYN0681,24,Female,Punakha,Rural,6.7,3.1,1,3,3,10,7,5.5,Medium,Support recommended
+SYN0682,19,Male,Bumthang,Urban,7.5,9.3,3,6,7,8,4,6.0,Low,No immediate flag
+SYN0683,26,Male,Chukha,Urban,5.3,4.6,0,4,4,8,7,4.9,Medium,No immediate flag
+SYN0684,26,Male,Chukha,Rural,7.2,3.5,6,10,1,8,7,4.5,High,Support recommended
+SYN0685,19,Other / Prefer not to say,Samtse,Urban,8.2,7.9,4,10,2,5,7,6.9,Medium,Support recommended
+SYN0686,25,Male,Samtse,Urban,7.4,5.6,7,9,9,10,4,5.8,Medium,No immediate flag
+SYN0687,21,Male,Paro,Rural,7.0,6.2,4,2,4,3,6,3.9,High,No immediate flag
+SYN0688,23,Male,Paro,Rural,6.7,4.7,2,4,1,6,1,5.3,High,No immediate flag
+SYN0689,22,Male,Chukha,Urban,5.8,4.4,4,8,8,1,5,6.0,High,No immediate flag
+SYN0690,25,Female,Punakha,Urban,6.7,4.7,1,8,6,3,4,8.6,Medium,Support recommended
+SYN0691,26,Female,Samtse,Rural,8.4,2.2,6,4,5,6,6,6.8,Low,No immediate flag
+SYN0692,25,Male,Samtse,Rural,6.7,4.8,5,2,9,5,10,7.6,Medium,No immediate flag
+SYN0693,26,Female,Mongar,Rural,5.7,5.6,1,2,4,10,10,4.0,Medium,Support recommended
+SYN0694,26,Female,Chukha,Urban,6.2,8.7,4,7,6,7,5,4.2,High,Support recommended
+SYN0695,18,Male,Sarpang,Urban,7.1,5.2,4,5,8,5,7,4.7,Low,Support recommended
+SYN0696,20,Female,Mongar,Urban,6.3,0.3,1,5,7,5,2,4.9,Medium,No immediate flag
+SYN0697,24,Female,Paro,Rural,7.4,4.8,0,9,3,7,5,3.2,High,No immediate flag
+SYN0698,23,Male,Samtse,Urban,7.5,10.5,6,1,7,8,7,7.7,High,No immediate flag
+SYN0699,18,Male,Paro,Urban,7.9,6.7,2,8,8,3,7,7.0,Medium,Support recommended
+SYN0700,18,Female,Chukha,Rural,8.6,3.4,4,3,2,6,10,4.6,High,Support recommended
+SYN0701,22,Female,Samtse,Rural,8.0,6.2,1,10,2,6,5,6.5,Low,No immediate flag
+SYN0702,23,Female,Paro,Rural,5.6,3.5,5,10,7,1,10,5.6,Medium,Support recommended
+SYN0703,19,Male,Thimphu,Rural,5.7,2.3,0,6,2,10,10,6.6,Low,Support recommended
+SYN0704,19,Male,Punakha,Rural,6.7,4.3,2,4,9,6,6,2.5,High,Support recommended
+SYN0705,19,Female,Mongar,Rural,6.2,5.2,4,3,2,3,1,4.9,High,No immediate flag
+SYN0706,23,Male,Samtse,Urban,5.4,1.3,3,2,10,7,4,5.1,Low,No immediate flag
+SYN0707,18,Female,Bumthang,Rural,6.2,2.7,4,10,7,7,8,6.4,Low,Support recommended
+SYN0708,23,Female,Samtse,Rural,6.2,5.0,1,2,5,10,6,3.9,Medium,Support recommended
+SYN0709,22,Other / Prefer not to say,Sarpang,Rural,6.0,4.2,3,5,3,1,10,0.5,Medium,No immediate flag
+SYN0710,22,Female,Chukha,Rural,6.4,5.8,6,5,4,5,9,3.0,High,Support recommended
+SYN0711,24,Female,Wangdue Phodrang,Rural,8.3,2.6,2,7,8,2,1,5.1,Low,No immediate flag
+SYN0712,22,Female,Mongar,Urban,7.0,6.4,1,9,8,6,9,5.3,High,Support recommended
+SYN0713,24,Male,Thimphu,Rural,9.9,2.6,6,6,3,6,4,8.6,Medium,No immediate flag
+SYN0714,24,Male,Sarpang,Urban,7.0,8.3,6,8,6,5,9,6.4,Medium,No immediate flag
+SYN0715,26,Other / Prefer not to say,Samtse,Urban,6.4,1.6,5,6,10,10,6,5.4,Low,Support recommended
+SYN0716,25,Female,Punakha,Urban,6.8,2.8,6,5,3,6,5,5.1,High,Support recommended
+SYN0717,22,Female,Trashigang,Urban,7.1,5.8,6,2,7,5,1,7.4,Medium,No immediate flag
+SYN0718,22,Male,Trashigang,Rural,7.3,8.3,5,3,2,1,2,4.0,Medium,No immediate flag
+SYN0719,20,Female,Thimphu,Rural,9.4,5.6,4,5,9,3,6,4.9,Medium,No immediate flag
+SYN0720,23,Male,Bumthang,Rural,5.7,6.1,0,1,2,9,6,3.0,High,Support recommended
+SYN0721,19,Male,Trashigang,Urban,7.9,5.0,4,4,3,5,6,8.0,High,No immediate flag
+SYN0722,26,Female,Sarpang,Urban,7.1,2.9,2,5,5,10,2,6.0,High,No immediate flag
+SYN0723,25,Male,Punakha,Rural,4.8,4.0,6,5,4,6,6,3.8,Medium,Support recommended
+SYN0724,19,Female,Trashigang,Urban,7.8,2.6,3,9,2,6,1,5.0,High,No immediate flag
+SYN0725,25,Female,Punakha,Urban,8.4,2.4,7,10,7,5,2,6.2,Medium,Support recommended
+SYN0726,19,Male,Bumthang,Rural,5.7,5.8,4,8,1,6,5,4.7,Medium,Support recommended
+SYN0727,24,Male,Bumthang,Urban,6.8,2.8,4,1,10,1,7,4.1,Medium,No immediate flag
+SYN0728,18,Male,Sarpang,Urban,4.6,5.6,7,5,1,1,7,3.9,Medium,Support recommended
+SYN0729,22,Male,Wangdue Phodrang,Rural,5.2,2.4,3,8,4,5,10,5.9,High,Support recommended
+SYN0730,23,Other / Prefer not to say,Mongar,Rural,8.1,5.6,3,6,10,6,9,4.5,High,No immediate flag
+SYN0731,24,Other / Prefer not to say,Samtse,Rural,6.2,4.0,2,5,2,6,4,4.3,Medium,Support recommended
+SYN0732,21,Male,Punakha,Urban,5.4,7.8,7,5,1,5,8,2.5,Medium,No immediate flag
+SYN0733,26,Female,Mongar,Rural,7.1,5.6,6,5,8,3,1,5.4,High,No immediate flag
+SYN0734,24,Male,Thimphu,Urban,6.1,7.5,1,6,1,8,9,4.8,High,Support recommended
+SYN0735,19,Other / Prefer not to say,Mongar,Rural,6.2,3.5,3,2,9,7,4,4.6,High,No immediate flag
+SYN0736,24,Female,Thimphu,Rural,7.7,5.1,2,6,5,1,8,5.6,Low,No immediate flag
+SYN0737,24,Female,Wangdue Phodrang,Rural,5.3,3.0,5,3,9,5,10,6.7,Medium,No immediate flag
+SYN0738,21,Female,Punakha,Urban,5.7,4.2,0,7,3,8,8,6.6,High,Support recommended
+SYN0739,24,Female,Punakha,Rural,7.0,4.5,5,9,2,8,10,6.3,High,Support recommended
+SYN0740,26,Male,Punakha,Urban,8.0,3.5,5,6,10,3,1,4.7,Medium,No immediate flag
+SYN0741,25,Female,Punakha,Urban,8.3,2.6,1,4,8,10,2,4.1,Medium,No immediate flag
+SYN0742,24,Male,Punakha,Urban,6.0,2.2,1,10,10,7,7,3.1,Medium,Support recommended
+SYN0743,23,Male,Punakha,Rural,8.0,0.3,5,7,4,5,6,4.0,Medium,No immediate flag
+SYN0744,20,Male,Wangdue Phodrang,Urban,5.8,2.9,2,5,5,7,2,5.2,High,No immediate flag
+SYN0745,25,Female,Mongar,Rural,9.1,6.3,7,1,6,9,8,3.6,Medium,No immediate flag
+SYN0746,21,Female,Wangdue Phodrang,Urban,5.4,1.8,6,1,5,3,1,5.4,Medium,No immediate flag
+SYN0747,22,Male,Trashigang,Rural,8.5,2.3,7,3,3,2,10,3.3,Medium,No immediate flag
+SYN0748,20,Male,Bumthang,Rural,6.0,8.6,4,3,4,5,2,1.9,High,No immediate flag
+SYN0749,20,Male,Sarpang,Urban,9.3,3.7,7,8,7,1,5,6.8,Medium,No immediate flag
+SYN0750,19,Male,Paro,Urban,7.5,5.6,0,6,1,9,9,4.3,Medium,Support recommended
+SYN0751,26,Female,Mongar,Urban,5.5,6.3,2,10,4,10,6,3.5,Low,Support recommended
+SYN0752,19,Male,Chukha,Rural,6.1,6.3,0,6,3,7,8,3.0,Low,Support recommended
+SYN0753,18,Female,Paro,Urban,7.8,2.0,5,10,1,10,8,6.0,Medium,Support recommended
+SYN0754,26,Female,Mongar,Rural,8.1,4.5,4,6,2,1,10,7.9,Low,Support recommended
+SYN0755,22,Male,Thimphu,Rural,6.7,1.8,2,4,5,7,5,4.4,High,Support recommended
+SYN0756,21,Female,Bumthang,Rural,6.9,9.9,2,8,2,5,10,4.8,High,Support recommended
+SYN0757,24,Female,Mongar,Rural,7.7,1.8,5,5,4,3,6,7.3,Low,No immediate flag
+SYN0758,21,Female,Sarpang,Rural,7.0,2.9,1,3,6,4,9,1.6,High,Support recommended
+SYN0759,19,Female,Trashigang,Rural,5.2,2.9,4,5,9,6,8,9.1,Medium,Support recommended
+SYN0760,24,Male,Bumthang,Urban,5.8,2.0,4,7,1,7,2,10.1,Medium,Support recommended
+SYN0761,19,Female,Paro,Rural,7.1,7.7,1,4,5,2,7,0.5,High,No immediate flag
+SYN0762,22,Male,Bumthang,Urban,8.3,9.8,1,8,2,7,9,5.0,Medium,Support recommended
+SYN0763,26,Male,Paro,Rural,8.8,4.0,2,10,5,10,2,3.8,Low,No immediate flag
+SYN0764,26,Female,Samtse,Rural,7.8,2.4,4,5,5,1,9,4.7,Low,Support recommended
+SYN0765,21,Female,Paro,Rural,7.2,0.5,2,3,8,9,2,4.4,Medium,No immediate flag
+SYN0766,25,Male,Punakha,Rural,7.7,4.5,3,5,5,7,9,6.8,High,No immediate flag
+SYN0767,23,Male,Mongar,Urban,6.0,4.4,4,9,10,4,8,5.0,Medium,Support recommended
+SYN0768,22,Male,Chukha,Rural,6.6,3.7,1,2,2,8,2,3.4,Medium,No immediate flag
+SYN0769,19,Male,Bumthang,Urban,5.8,5.4,4,10,1,7,8,4.9,Low,Support recommended
+SYN0770,21,Female,Trashigang,Rural,5.2,5.8,1,5,1,8,2,6.2,High,Support recommended
+SYN0771,23,Female,Trashigang,Rural,7.2,5.6,1,9,4,1,6,2.8,Medium,Support recommended
+SYN0772,26,Male,Sarpang,Urban,7.0,4.4,1,8,2,1,10,1.9,Medium,Support recommended
+SYN0773,18,Female,Punakha,Urban,7.7,2.8,2,8,1,7,3,9.2,Medium,Support recommended
+SYN0774,24,Male,Samtse,Urban,7.5,6.3,0,10,3,4,2,3.9,Medium,Support recommended
+SYN0775,25,Male,Sarpang,Urban,7.1,5.0,7,2,10,3,5,4.9,Low,No immediate flag
+SYN0776,26,Male,Wangdue Phodrang,Urban,7.5,6.8,2,6,9,5,4,4.4,Medium,No immediate flag
+SYN0777,21,Female,Trashigang,Rural,6.7,6.6,6,1,1,8,1,6.3,Medium,No immediate flag
+SYN0778,19,Female,Chukha,Rural,7.3,2.2,7,3,10,2,5,8.7,Medium,No immediate flag
+SYN0779,20,Female,Chukha,Urban,5.9,2.1,6,1,3,10,3,6.4,High,No immediate flag
+SYN0780,25,Female,Paro,Rural,7.3,3.5,6,7,5,5,2,2.2,Low,No immediate flag
+SYN0781,25,Male,Chukha,Rural,7.6,2.9,0,7,4,2,3,2.4,Medium,Support recommended
+SYN0782,23,Female,Paro,Urban,6.0,6.5,2,8,5,1,1,4.4,Low,Support recommended
+SYN0783,19,Female,Mongar,Urban,6.9,5.7,5,2,8,9,10,4.7,Low,No immediate flag
+SYN0784,19,Female,Thimphu,Urban,6.0,7.2,4,4,8,2,10,1.8,High,No immediate flag
+SYN0785,22,Female,Trashigang,Urban,6.1,5.8,0,7,6,5,4,6.8,High,Support recommended
+SYN0786,23,Male,Sarpang,Rural,5.4,5.4,4,9,7,7,9,3.0,High,Support recommended
+SYN0787,18,Female,Mongar,Rural,8.4,7.4,6,9,8,6,5,8.2,Low,Support recommended
+SYN0788,24,Other / Prefer not to say,Punakha,Urban,8.1,5.9,6,1,2,3,10,8.8,Medium,Support recommended
+SYN0789,22,Female,Thimphu,Rural,7.5,5.1,3,5,4,2,2,4.7,Medium,No immediate flag
+SYN0790,18,Male,Bumthang,Urban,9.3,8.0,1,1,2,8,3,6.1,High,Support recommended
+SYN0791,18,Female,Thimphu,Rural,6.6,5.2,2,9,8,5,8,2.7,Medium,Support recommended
+SYN0792,22,Female,Trashigang,Rural,10.0,4.4,2,2,5,1,3,6.4,High,No immediate flag
+SYN0793,24,Male,Trashigang,Urban,6.5,3.3,2,9,7,2,9,4.2,Low,Support recommended
+SYN0794,25,Other / Prefer not to say,Paro,Urban,7.1,6.4,2,2,6,6,5,3.0,Medium,Support recommended
+SYN0795,21,Male,Mongar,Rural,6.3,7.5,3,1,3,2,5,4.6,High,No immediate flag
+SYN0796,20,Female,Paro,Rural,7.3,4.9,0,9,2,4,5,4.3,Medium,Support recommended
+SYN0797,26,Female,Chukha,Urban,7.8,7.6,2,5,10,2,8,4.5,Medium,No immediate flag
+SYN0798,22,Male,Bumthang,Urban,6.7,1.1,2,5,3,8,1,7.1,Medium,No immediate flag
+SYN0799,20,Female,Sarpang,Urban,9.0,4.9,1,7,2,7,8,3.6,High,Support recommended
+SYN0800,21,Male,Chukha,Rural,7.1,4.9,7,3,4,8,8,8.7,Low,Support recommended
